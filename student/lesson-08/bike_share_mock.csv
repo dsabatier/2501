@@ -1,0 +1,401 @@
+ride_id,start_time,member_type,duration_min,start_station,end_station
+1334,2026-05-01 01:25:00,casual,10.8,Legislature Grounds,Grandin Station
+1173,2026-05-01 17:56:00,member,5.1,Grandin Station,Grandin Station
+1191,2026-05-01 21:11:00,casual,39.6,MacEwan University,Riverdale
+1104,2026-05-02 12:18:00,casual,27.4,Kinnaird Ravine,Riverdale
+1257,2026-05-02 18:18:00,casual,58.8,Riverdale,Whyte Ave & 104 St
+1044,2026-05-02 19:06:00,member,10.7,Old Strathcona Market,Rossdale
+1014,2026-05-02 20:38:00,casual,12.9,Kinnaird Ravine,Old Strathcona Market
+1181,2026-05-02 22:56:00,casual,17.4,Government House Park,Rossdale
+1325,2026-05-03 04:04:00,casual,18.9,Rossdale,MacEwan University
+1309,2026-05-03 07:32:00,member,6.2,Riverdale,Government House Park
+1067,2026-05-03 18:29:00,member,21.7,Rossdale,Grandin Station
+1175,2026-05-03 21:28:00,member,8.7,Grandin Station,Grandin Station
+1273,2026-05-03 21:48:00,member,15.5,Government House Park,Government House Park
+1317,2026-05-03 22:31:00,member,5.7,Grandin Station,Riverdale
+1033,2026-05-04 01:31:00,member,8.7,Bonnie Doon,MacEwan University
+1349,2026-05-04 03:21:00,member,235.5,Bonnie Doon,Kinnaird Ravine
+1163,2026-05-04 05:10:00,member,12.4,Legislature Grounds,Grandin Station
+1333,2026-05-04 09:40:00,casual,15.7,Legislature Grounds,Grandin Station
+1070,2026-05-04 10:09:00,member,9.7,Kinnaird Ravine,Rossdale
+1005,2026-05-04 10:42:00,member,3.2,Legislature Grounds,Bonnie Doon
+1050,2026-05-04 15:38:00,member,6.9,Grandin Station,Riverdale
+1202,2026-05-04 19:15:00,casual,12.0,Old Strathcona Market,Rossdale
+1214,2026-05-05 03:34:00,casual,339.3,Whyte Ave & 104 St,Government House Park
+1297,2026-05-05 05:24:00,casual,37.8,MacEwan University,Rossdale
+1136,2026-05-05 10:56:00,member,6.0,Kinnaird Ravine,Old Strathcona Market
+1256,2026-05-05 12:56:00,casual,27.9,Whyte Ave & 104 St,Legislature Grounds
+1250,2026-05-05 16:49:00,member,7.9,Old Strathcona Market,Grandin Station
+1340,2026-05-05 17:45:00,casual,42.4,Rossdale,Bonnie Doon
+1024,2026-05-05 20:54:00,casual,9.3,Grandin Station,Legislature Grounds
+1180,2026-05-06 02:23:00,casual,28.5,Bonnie Doon,Kinnaird Ravine
+1074,2026-05-06 04:27:00,member,8.9,Bonnie Doon,Whyte Ave & 104 St
+1361,2026-05-06 06:21:00,casual,51.1,Old Strathcona Market,Bonnie Doon
+1399,2026-05-06 08:55:00,member,9.0,Grandin Station,Bonnie Doon
+1287,2026-05-06 09:46:00,member,6.5,Legislature Grounds,Old Strathcona Market
+1139,2026-05-06 20:32:00,casual,41.1,Legislature Grounds,Legislature Grounds
+1398,2026-05-07 03:44:00,member,13.5,Old Strathcona Market,Whyte Ave & 104 St
+1020,2026-05-07 09:12:00,member,8.0,Rossdale,MacEwan University
+1168,2026-05-07 09:17:00,casual,58.2,Old Strathcona Market,Whyte Ave & 104 St
+1060,2026-05-07 09:46:00,member,4.6,MacEwan University,Rossdale
+1268,2026-05-07 11:18:00,member,5.5,Riverdale,Old Strathcona Market
+1160,2026-05-07 11:45:00,casual,17.4,Riverdale,Government House Park
+1049,2026-05-07 14:49:00,casual,31.7,Government House Park,Government House Park
+1047,2026-05-07 19:12:00,member,8.5,Government House Park,MacEwan University
+1227,2026-05-07 19:41:00,member,4.7,Legislature Grounds,Old Strathcona Market
+1017,2026-05-07 23:25:00,member,13.0,Kinnaird Ravine,MacEwan University
+1101,2026-05-07 23:52:00,casual,12.4,Old Strathcona Market,Bonnie Doon
+1242,2026-05-08 04:11:00,casual,40.2,Kinnaird Ravine,Government House Park
+1244,2026-05-08 04:24:00,member,3.0,Rossdale,Legislature Grounds
+1245,2026-05-08 06:32:00,member,18.6,Old Strathcona Market,Riverdale
+1055,2026-05-08 08:20:00,casual,17.1,Legislature Grounds,Legislature Grounds
+1226,2026-05-08 10:32:00,casual,21.6,Old Strathcona Market,Rossdale
+1095,2026-05-08 12:28:00,member,10.0,Rossdale,Riverdale
+1368,2026-05-08 18:36:00,casual,58.6,MacEwan University,Government House Park
+1375,2026-05-08 20:02:00,member,15.8,Old Strathcona Market,Legislature Grounds
+1051,2026-05-08 20:44:00,member,7.1,Riverdale,Legislature Grounds
+1331,2026-05-08 22:46:00,casual,8.0,Rossdale,Riverdale
+1364,2026-05-08 23:39:00,member,6.0,Rossdale,Legislature Grounds
+1281,2026-05-09 00:22:00,member,4.4,Government House Park,Kinnaird Ravine
+1306,2026-05-09 02:50:00,member,8.1,Riverdale,MacEwan University
+1272,2026-05-09 19:58:00,member,9.7,Old Strathcona Market,Old Strathcona Market
+1064,2026-05-09 20:23:00,casual,23.5,Bonnie Doon,Kinnaird Ravine
+1025,2026-05-09 23:27:00,casual,8.4,Kinnaird Ravine,Government House Park
+1205,2026-05-10 06:33:00,member,5.2,Rossdale,Grandin Station
+1184,2026-05-10 06:47:00,member,9.8,Legislature Grounds,Bonnie Doon
+1208,2026-05-10 09:10:00,casual,7.7,Riverdale,Whyte Ave & 104 St
+1337,2026-05-10 16:21:00,member,3.2,Bonnie Doon,Government House Park
+1265,2026-05-10 20:48:00,casual,52.5,Kinnaird Ravine,Rossdale
+1350,2026-05-11 07:11:00,member,,Rossdale,Old Strathcona Market
+1079,2026-05-11 10:26:00,member,5.4,Riverdale,Old Strathcona Market
+1028,2026-05-11 13:30:00,member,12.6,Whyte Ave & 104 St,Old Strathcona Market
+1141,2026-05-11 15:08:00,member,17.3,Legislature Grounds,Riverdale
+1023,2026-05-11 22:28:00,casual,6.3,Bonnie Doon,Bonnie Doon
+1011,2026-05-12 00:50:00,member,12.7,Old Strathcona Market,Kinnaird Ravine
+1158,2026-05-12 01:05:00,casual,,MacEwan University,MacEwan University
+1355,2026-05-12 05:38:00,member,14.1,MacEwan University,Whyte Ave & 104 St
+1396,2026-05-12 08:07:00,member,8.7,Government House Park,Riverdale
+1099,2026-05-12 10:28:00,member,,Old Strathcona Market,Kinnaird Ravine
+1283,2026-05-12 11:27:00,member,7.1,Kinnaird Ravine,Riverdale
+1286,2026-05-12 11:48:00,member,10.2,Government House Park,Bonnie Doon
+1219,2026-05-12 18:46:00,casual,13.4,Grandin Station,Bonnie Doon
+1056,2026-05-13 02:41:00,casual,22.8,Old Strathcona Market,Legislature Grounds
+1068,2026-05-13 02:58:00,member,22.9,MacEwan University,Kinnaird Ravine
+1310,2026-05-13 03:04:00,member,6.3,Riverdale,Rossdale
+1019,2026-05-13 05:14:00,casual,25.3,Rossdale,Old Strathcona Market
+1188,2026-05-13 07:52:00,member,6.0,Riverdale,Bonnie Doon
+1358,2026-05-13 08:12:00,casual,6.8,Government House Park,Grandin Station
+1318,2026-05-13 10:21:00,casual,18.4,MacEwan University,Whyte Ave & 104 St
+1041,2026-05-13 12:53:00,member,12.9,MacEwan University,Rossdale
+1360,2026-05-13 13:28:00,member,13.7,MacEwan University,Old Strathcona Market
+1290,2026-05-13 18:19:00,member,10.5,Old Strathcona Market,Kinnaird Ravine
+1248,2026-05-14 00:20:00,member,3.8,Rossdale,Kinnaird Ravine
+1279,2026-05-14 01:56:00,casual,18.2,Grandin Station,Riverdale
+1015,2026-05-14 04:56:00,member,8.3,Rossdale,Bonnie Doon
+1292,2026-05-14 15:25:00,member,10.9,Government House Park,Old Strathcona Market
+1147,2026-05-14 16:07:00,member,7.4,Bonnie Doon,Whyte Ave & 104 St
+1210,2026-05-14 16:58:00,member,7.4,Riverdale,Government House Park
+1384,2026-05-14 21:11:00,member,19.2,Grandin Station,Riverdale
+1007,2026-05-14 22:20:00,casual,14.7,MacEwan University,Kinnaird Ravine
+1098,2026-05-14 22:28:00,member,11.7,MacEwan University,Riverdale
+1232,2026-05-15 04:21:00,member,10.0,MacEwan University,Grandin Station
+1186,2026-05-15 09:29:00,casual,18.3,Bonnie Doon,Legislature Grounds
+1296,2026-05-15 17:06:00,casual,26.8,Grandin Station,Kinnaird Ravine
+1212,2026-05-15 19:54:00,member,13.0,Government House Park,MacEwan University
+1032,2026-05-15 22:23:00,casual,39.4,Bonnie Doon,Rossdale
+1153,2026-05-16 10:12:00,member,3.1,Bonnie Doon,Riverdale
+1203,2026-05-17 03:32:00,member,10.0,Kinnaird Ravine,MacEwan University
+1122,2026-05-17 11:51:00,member,10.9,Old Strathcona Market,Government House Park
+1037,2026-05-17 13:38:00,member,6.9,Riverdale,Old Strathcona Market
+1394,2026-05-18 03:22:00,casual,9.3,Rossdale,Rossdale
+1357,2026-05-18 06:37:00,casual,10.8,Old Strathcona Market,Whyte Ave & 104 St
+1251,2026-05-18 07:16:00,casual,17.1,Legislature Grounds,Whyte Ave & 104 St
+1086,2026-05-18 17:09:00,member,7.5,Bonnie Doon,Rossdale
+1332,2026-05-18 18:22:00,member,12.3,Riverdale,Grandin Station
+1128,2026-05-18 19:13:00,member,8.7,Whyte Ave & 104 St,MacEwan University
+1352,2026-05-18 23:58:00,member,12.9,Bonnie Doon,Old Strathcona Market
+1326,2026-05-19 05:21:00,casual,27.9,MacEwan University,Government House Park
+1012,2026-05-19 07:33:00,casual,21.6,Rossdale,Rossdale
+1253,2026-05-19 08:51:00,member,11.7,Government House Park,Government House Park
+1321,2026-05-19 13:22:00,casual,11.5,Whyte Ave & 104 St,Grandin Station
+1378,2026-05-19 16:14:00,member,12.0,Whyte Ave & 104 St,Government House Park
+1140,2026-05-19 18:29:00,member,7.4,Bonnie Doon,MacEwan University
+1353,2026-05-19 19:32:00,member,4.3,Government House Park,Rossdale
+1029,2026-05-20 01:10:00,member,7.9,Rossdale,MacEwan University
+1071,2026-05-20 04:23:00,member,14.6,Rossdale,Legislature Grounds
+1097,2026-05-20 12:11:00,member,9.4,Riverdale,Old Strathcona Market
+1082,2026-05-20 18:25:00,member,21.5,Kinnaird Ravine,Kinnaird Ravine
+1133,2026-05-20 18:45:00,member,13.5,Whyte Ave & 104 St,Legislature Grounds
+1036,2026-05-21 03:33:00,member,380.7,Rossdale,Riverdale
+1006,2026-05-21 04:38:00,casual,19.6,MacEwan University,Riverdale
+1030,2026-05-21 08:31:00,casual,21.2,Old Strathcona Market,Government House Park
+1121,2026-05-21 11:15:00,member,26.7,Government House Park,Rossdale
+1285,2026-05-21 11:51:00,member,12.8,Legislature Grounds,Whyte Ave & 104 St
+1195,2026-05-21 16:59:00,member,3.0,Government House Park,Bonnie Doon
+1182,2026-05-21 19:15:00,casual,13.3,Grandin Station,Legislature Grounds
+1035,2026-05-22 04:40:00,member,9.4,Whyte Ave & 104 St,Whyte Ave & 104 St
+1107,2026-05-22 10:07:00,member,7.9,Bonnie Doon,Legislature Grounds
+1135,2026-05-22 10:16:00,member,5.8,Rossdale,Kinnaird Ravine
+1304,2026-05-22 16:01:00,member,7.4,MacEwan University,MacEwan University
+1130,2026-05-22 17:16:00,member,10.5,Rossdale,MacEwan University
+1031,2026-05-23 03:41:00,casual,34.6,Kinnaird Ravine,MacEwan University
+1308,2026-05-23 03:50:00,member,3.3,Government House Park,Grandin Station
+1199,2026-05-23 08:35:00,member,12.4,Government House Park,Kinnaird Ravine
+1395,2026-05-23 09:29:00,member,8.8,MacEwan University,Government House Park
+1225,2026-05-23 10:45:00,member,5.7,Government House Park,MacEwan University
+1372,2026-05-23 13:53:00,member,13.2,MacEwan University,Government House Park
+1269,2026-05-23 14:43:00,member,11.7,Bonnie Doon,MacEwan University
+1132,2026-05-23 17:56:00,casual,13.0,Government House Park,Old Strathcona Market
+1312,2026-05-23 17:58:00,member,5.8,Old Strathcona Market,Old Strathcona Market
+1241,2026-05-23 18:02:00,casual,15.2,Riverdale,Riverdale
+1393,2026-05-24 02:08:00,member,9.2,Kinnaird Ravine,MacEwan University
+1167,2026-05-24 03:08:00,casual,22.4,Rossdale,Government House Park
+1089,2026-05-24 04:30:00,member,11.9,Whyte Ave & 104 St,MacEwan University
+1324,2026-05-24 05:10:00,member,12.0,Whyte Ave & 104 St,Grandin Station
+1228,2026-05-24 06:38:00,member,11.0,Government House Park,Old Strathcona Market
+1380,2026-05-24 13:43:00,casual,7.1,Grandin Station,Bonnie Doon
+1137,2026-05-24 15:18:00,casual,39.6,Riverdale,Bonnie Doon
+1145,2026-05-24 15:54:00,member,7.6,Kinnaird Ravine,Government House Park
+1126,2026-05-24 17:12:00,member,7.9,Whyte Ave & 104 St,MacEwan University
+1114,2026-05-24 17:16:00,member,4.6,Whyte Ave & 104 St,Grandin Station
+1397,2026-05-24 17:55:00,casual,51.1,Old Strathcona Market,Riverdale
+1119,2026-05-24 23:33:00,member,2.4,Old Strathcona Market,Rossdale
+1109,2026-05-25 01:36:00,member,,MacEwan University,Grandin Station
+1091,2026-05-25 02:34:00,member,14.5,Grandin Station,Bonnie Doon
+1054,2026-05-25 03:03:00,casual,24.0,Legislature Grounds,Legislature Grounds
+1345,2026-05-25 06:21:00,casual,24.3,Legislature Grounds,Rossdale
+1069,2026-05-25 12:58:00,member,9.3,Rossdale,MacEwan University
+1291,2026-05-25 13:15:00,casual,70.4,Government House Park,Legislature Grounds
+1239,2026-05-26 05:46:00,member,11.1,Rossdale,Rossdale
+1040,2026-05-26 06:15:00,casual,15.6,Government House Park,Government House Park
+1243,2026-05-26 07:31:00,member,5.6,Riverdale,Bonnie Doon
+1021,2026-05-26 12:22:00,casual,17.8,Grandin Station,Bonnie Doon
+1018,2026-05-26 19:38:00,member,,Legislature Grounds,Bonnie Doon
+1294,2026-05-26 23:44:00,member,8.3,Whyte Ave & 104 St,Legislature Grounds
+1386,2026-05-27 05:00:00,casual,40.1,Legislature Grounds,Old Strathcona Market
+1206,2026-05-27 05:57:00,member,10.1,Rossdale,Whyte Ave & 104 St
+1066,2026-05-27 07:48:00,member,250.7,Whyte Ave & 104 St,Rossdale
+1111,2026-05-27 14:13:00,member,3.9,Grandin Station,Grandin Station
+1262,2026-05-27 15:04:00,casual,7.3,Legislature Grounds,Whyte Ave & 104 St
+1110,2026-05-27 17:36:00,casual,31.8,Kinnaird Ravine,Grandin Station
+1305,2026-05-27 20:56:00,casual,22.6,Government House Park,Legislature Grounds
+1307,2026-05-27 21:21:00,member,13.8,Grandin Station,Rossdale
+1190,2026-05-28 04:32:00,member,4.7,Rossdale,Rossdale
+1280,2026-05-28 17:03:00,casual,7.4,Government House Park,Kinnaird Ravine
+1390,2026-05-28 17:29:00,casual,21.2,Legislature Grounds,Kinnaird Ravine
+1391,2026-05-28 19:26:00,member,5.5,Grandin Station,Riverdale
+1123,2026-05-28 21:31:00,member,7.0,Government House Park,Bonnie Doon
+1347,2026-05-28 21:55:00,casual,25.7,Whyte Ave & 104 St,Kinnaird Ravine
+1127,2026-05-29 01:26:00,member,9.4,Old Strathcona Market,Legislature Grounds
+1010,2026-05-29 02:04:00,member,9.6,Kinnaird Ravine,Kinnaird Ravine
+1261,2026-05-29 11:57:00,member,,Kinnaird Ravine,Whyte Ave & 104 St
+1189,2026-05-29 12:42:00,casual,21.1,Riverdale,Government House Park
+1094,2026-05-29 12:44:00,member,29.0,Riverdale,Riverdale
+1072,2026-05-29 14:47:00,member,6.2,Grandin Station,Old Strathcona Market
+1052,2026-05-29 14:59:00,member,5.6,Grandin Station,Rossdale
+1004,2026-05-29 17:23:00,casual,8.7,Riverdale,Old Strathcona Market
+1275,2026-05-29 18:59:00,casual,7.5,Grandin Station,Government House Park
+1008,2026-05-29 20:02:00,casual,24.5,Government House Park,Government House Park
+1001,2026-05-30 01:51:00,casual,24.2,Kinnaird Ravine,Old Strathcona Market
+1231,2026-05-30 08:39:00,member,12.4,Government House Park,Riverdale
+1389,2026-05-30 12:27:00,member,9.0,Rossdale,Legislature Grounds
+1314,2026-05-30 19:43:00,member,8.2,Riverdale,Government House Park
+1209,2026-05-31 03:03:00,member,5.1,Old Strathcona Market,Kinnaird Ravine
+1085,2026-05-31 04:03:00,member,10.5,Legislature Grounds,Bonnie Doon
+1187,2026-05-31 06:59:00,member,10.1,Whyte Ave & 104 St,MacEwan University
+1142,2026-05-31 07:14:00,member,9.5,Grandin Station,Legislature Grounds
+1230,2026-05-31 08:09:00,member,5.1,MacEwan University,MacEwan University
+1260,2026-05-31 08:45:00,member,8.4,Old Strathcona Market,Legislature Grounds
+1284,2026-05-31 11:14:00,member,2.8,Grandin Station,Whyte Ave & 104 St
+1083,2026-05-31 17:19:00,casual,34.9,Whyte Ave & 104 St,Whyte Ave & 104 St
+1288,2026-06-01 10:49:00,member,,Riverdale,Kinnaird Ravine
+1277,2026-06-01 11:03:00,member,6.0,Bonnie Doon,Riverdale
+1322,2026-06-01 14:45:00,member,11.6,Grandin Station,Riverdale
+1022,2026-06-01 15:56:00,member,13.1,Government House Park,Bonnie Doon
+1259,2026-06-01 22:19:00,member,7.7,Rossdale,Whyte Ave & 104 St
+1356,2026-06-01 23:02:00,member,15.4,Bonnie Doon,Kinnaird Ravine
+1034,2026-06-02 03:33:00,member,16.5,Grandin Station,Old Strathcona Market
+1339,2026-06-02 04:36:00,member,5.9,MacEwan University,Legislature Grounds
+1138,2026-06-02 04:38:00,member,8.3,Old Strathcona Market,Legislature Grounds
+1311,2026-06-02 09:38:00,member,3.2,Rossdale,Whyte Ave & 104 St
+1211,2026-06-02 13:12:00,casual,14.3,Bonnie Doon,Whyte Ave & 104 St
+1152,2026-06-02 14:22:00,casual,35.7,Whyte Ave & 104 St,Government House Park
+1154,2026-06-02 15:05:00,member,,Whyte Ave & 104 St,Legislature Grounds
+1366,2026-06-02 16:47:00,member,7.9,Old Strathcona Market,Legislature Grounds
+1084,2026-06-02 21:39:00,member,5.8,Whyte Ave & 104 St,Kinnaird Ravine
+1063,2026-06-02 22:41:00,member,14.9,Old Strathcona Market,Kinnaird Ravine
+1379,2026-06-03 00:06:00,member,10.5,MacEwan University,Old Strathcona Market
+1381,2026-06-03 13:42:00,member,9.3,Riverdale,Kinnaird Ravine
+1131,2026-06-03 15:33:00,member,12.2,Legislature Grounds,Legislature Grounds
+1320,2026-06-03 23:52:00,casual,11.1,Kinnaird Ravine,MacEwan University
+1179,2026-06-04 02:39:00,casual,31.2,Whyte Ave & 104 St,Government House Park
+1233,2026-06-04 04:13:00,casual,13.6,Bonnie Doon,Riverdale
+1125,2026-06-04 11:24:00,member,4.5,MacEwan University,Bonnie Doon
+1201,2026-06-04 11:28:00,casual,9.9,Riverdale,MacEwan University
+1192,2026-06-04 17:27:00,member,15.8,Bonnie Doon,Kinnaird Ravine
+1343,2026-06-04 19:29:00,casual,10.1,Grandin Station,Legislature Grounds
+1149,2026-06-04 23:03:00,member,4.4,Legislature Grounds,Old Strathcona Market
+1264,2026-06-05 00:34:00,member,7.5,Bonnie Doon,Riverdale
+1298,2026-06-05 04:43:00,casual,14.3,Whyte Ave & 104 St,Rossdale
+1224,2026-06-05 04:56:00,casual,25.5,Rossdale,Old Strathcona Market
+1105,2026-06-05 11:28:00,casual,34.5,Kinnaird Ravine,Old Strathcona Market
+1093,2026-06-05 11:56:00,member,9.0,Old Strathcona Market,Grandin Station
+1274,2026-06-05 12:06:00,member,7.8,Government House Park,Whyte Ave & 104 St
+1282,2026-06-05 13:56:00,member,11.2,Old Strathcona Market,Bonnie Doon
+1009,2026-06-05 14:41:00,member,12.3,Kinnaird Ravine,Rossdale
+1171,2026-06-05 15:02:00,member,6.4,Grandin Station,MacEwan University
+1075,2026-06-05 15:40:00,member,10.4,Government House Park,Old Strathcona Market
+1106,2026-06-05 22:07:00,casual,23.2,Old Strathcona Market,Riverdale
+1159,2026-06-06 17:40:00,casual,16.5,Bonnie Doon,Government House Park
+1221,2026-06-06 17:57:00,member,12.7,Government House Park,Bonnie Doon
+1174,2026-06-07 05:23:00,casual,11.7,MacEwan University,Legislature Grounds
+1237,2026-06-07 09:24:00,member,10.2,Legislature Grounds,Old Strathcona Market
+1370,2026-06-07 14:35:00,casual,35.5,Whyte Ave & 104 St,Old Strathcona Market
+1271,2026-06-07 21:21:00,member,6.1,Government House Park,Riverdale
+1039,2026-06-07 21:53:00,member,6.0,Old Strathcona Market,Government House Park
+1053,2026-06-07 22:46:00,casual,13.3,Grandin Station,Government House Park
+1113,2026-06-08 05:28:00,member,3.7,Bonnie Doon,Riverdale
+1234,2026-06-08 05:33:00,member,,Whyte Ave & 104 St,Grandin Station
+1266,2026-06-08 14:57:00,member,8.3,Old Strathcona Market,Whyte Ave & 104 St
+1374,2026-06-08 17:42:00,member,11.0,Kinnaird Ravine,Rossdale
+1303,2026-06-08 23:52:00,member,7.3,Kinnaird Ravine,Legislature Grounds
+1096,2026-06-09 00:45:00,member,17.2,Grandin Station,Old Strathcona Market
+1026,2026-06-09 00:58:00,member,3.1,Grandin Station,Riverdale
+1299,2026-06-09 19:01:00,casual,15.0,Bonnie Doon,Bonnie Doon
+1204,2026-06-10 09:20:00,member,18.6,Kinnaird Ravine,Whyte Ave & 104 St
+1161,2026-06-10 11:01:00,member,9.9,Government House Park,Old Strathcona Market
+1164,2026-06-10 14:21:00,member,12.1,Government House Park,Legislature Grounds
+1316,2026-06-10 15:05:00,member,8.1,Riverdale,Whyte Ave & 104 St
+1129,2026-06-10 19:43:00,member,12.8,Grandin Station,MacEwan University
+1108,2026-06-10 23:21:00,member,11.0,Whyte Ave & 104 St,Bonnie Doon
+1267,2026-06-10 23:58:00,member,19.1,Kinnaird Ravine,Whyte Ave & 104 St
+1362,2026-06-11 00:07:00,member,11.4,Bonnie Doon,MacEwan University
+1013,2026-06-11 03:46:00,member,11.4,MacEwan University,Grandin Station
+1177,2026-06-11 06:32:00,member,9.2,Grandin Station,Whyte Ave & 104 St
+1387,2026-06-12 04:59:00,casual,21.9,Riverdale,Whyte Ave & 104 St
+1046,2026-06-12 12:10:00,casual,24.7,Legislature Grounds,Grandin Station
+1062,2026-06-12 14:54:00,member,7.8,MacEwan University,Grandin Station
+1263,2026-06-12 15:25:00,member,9.7,Bonnie Doon,Bonnie Doon
+1319,2026-06-13 08:16:00,member,14.4,Old Strathcona Market,Old Strathcona Market
+1365,2026-06-13 10:22:00,casual,19.1,Bonnie Doon,Bonnie Doon
+1252,2026-06-13 20:39:00,casual,10.3,Legislature Grounds,Old Strathcona Market
+1344,2026-06-13 23:29:00,member,5.4,Legislature Grounds,Legislature Grounds
+1400,2026-06-14 05:40:00,member,10.1,Rossdale,Riverdale
+1236,2026-06-14 08:14:00,casual,19.3,Government House Park,Old Strathcona Market
+1143,2026-06-14 08:20:00,casual,21.9,Government House Park,Riverdale
+1118,2026-06-14 14:20:00,casual,8.3,Old Strathcona Market,Grandin Station
+1338,2026-06-14 16:06:00,casual,8.3,Legislature Grounds,MacEwan University
+1254,2026-06-14 21:37:00,member,11.4,Whyte Ave & 104 St,Old Strathcona Market
+1183,2026-06-15 03:42:00,member,11.5,Old Strathcona Market,Legislature Grounds
+1048,2026-06-15 20:42:00,member,3.9,MacEwan University,Government House Park
+1059,2026-06-16 05:25:00,member,7.7,Rossdale,Grandin Station
+1151,2026-06-16 08:54:00,casual,14.1,Whyte Ave & 104 St,Rossdale
+1150,2026-06-16 16:55:00,member,12.0,Government House Park,Bonnie Doon
+1328,2026-06-16 17:55:00,member,9.0,Whyte Ave & 104 St,Grandin Station
+1388,2026-06-16 21:32:00,casual,,Rossdale,Whyte Ave & 104 St
+1120,2026-06-17 00:24:00,member,7.0,Rossdale,Legislature Grounds
+1207,2026-06-17 07:23:00,member,,Legislature Grounds,Grandin Station
+1193,2026-06-17 18:15:00,member,8.0,Kinnaird Ravine,Government House Park
+1148,2026-06-17 22:19:00,member,11.0,Bonnie Doon,Whyte Ave & 104 St
+1102,2026-06-18 02:22:00,casual,24.1,Old Strathcona Market,Bonnie Doon
+1247,2026-06-18 03:08:00,member,7.5,Kinnaird Ravine,Government House Park
+1377,2026-06-18 05:06:00,casual,28.5,Government House Park,Kinnaird Ravine
+1112,2026-06-18 05:46:00,member,7.7,Kinnaird Ravine,Old Strathcona Market
+1354,2026-06-18 10:05:00,member,3.3,Rossdale,Bonnie Doon
+1216,2026-06-18 10:08:00,casual,13.8,Whyte Ave & 104 St,Old Strathcona Market
+1270,2026-06-18 10:35:00,member,10.4,Old Strathcona Market,Rossdale
+1092,2026-06-18 14:07:00,casual,10.1,Grandin Station,Government House Park
+1116,2026-06-18 14:40:00,casual,31.1,Old Strathcona Market,Whyte Ave & 104 St
+1042,2026-06-18 15:50:00,casual,49.0,Bonnie Doon,Grandin Station
+1080,2026-06-18 19:23:00,casual,14.8,Riverdale,Bonnie Doon
+1346,2026-06-18 22:06:00,casual,19.6,Riverdale,Whyte Ave & 104 St
+1229,2026-06-19 05:46:00,member,6.3,Riverdale,Rossdale
+1077,2026-06-19 16:08:00,member,4.4,Grandin Station,Grandin Station
+1090,2026-06-19 19:43:00,member,7.7,Legislature Grounds,Old Strathcona Market
+1293,2026-06-19 20:04:00,casual,23.5,Grandin Station,Rossdale
+1367,2026-06-20 06:04:00,casual,10.9,MacEwan University,Rossdale
+1061,2026-06-20 10:30:00,casual,34.2,Riverdale,Legislature Grounds
+1155,2026-06-20 19:29:00,member,4.2,Grandin Station,Government House Park
+1335,2026-06-20 20:01:00,member,8.6,Grandin Station,Riverdale
+1329,2026-06-21 01:23:00,member,8.2,Rossdale,Old Strathcona Market
+1057,2026-06-21 02:10:00,member,10.6,Bonnie Doon,MacEwan University
+1185,2026-06-21 04:44:00,casual,8.6,Kinnaird Ravine,Riverdale
+1218,2026-06-21 05:45:00,member,6.8,MacEwan University,Legislature Grounds
+1166,2026-06-21 08:23:00,member,11.6,Old Strathcona Market,Grandin Station
+1249,2026-06-21 10:31:00,member,323.0,Legislature Grounds,Riverdale
+1002,2026-06-21 13:38:00,member,11.4,Riverdale,Rossdale
+1371,2026-06-21 18:31:00,casual,11.4,Bonnie Doon,Kinnaird Ravine
+1200,2026-06-21 18:54:00,member,22.1,Government House Park,Legislature Grounds
+1027,2026-06-22 05:40:00,member,6.6,Whyte Ave & 104 St,Whyte Ave & 104 St
+1363,2026-06-22 10:19:00,member,7.6,Rossdale,Legislature Grounds
+1217,2026-06-22 11:32:00,member,16.0,Legislature Grounds,Old Strathcona Market
+1103,2026-06-22 11:40:00,member,6.1,MacEwan University,MacEwan University
+1392,2026-06-22 18:25:00,member,10.8,Bonnie Doon,Rossdale
+1146,2026-06-22 18:40:00,member,5.9,Whyte Ave & 104 St,Old Strathcona Market
+1197,2026-06-23 04:12:00,member,7.9,Legislature Grounds,Kinnaird Ravine
+1342,2026-06-23 05:24:00,casual,29.0,Kinnaird Ravine,Grandin Station
+1255,2026-06-23 05:39:00,member,4.6,Grandin Station,Kinnaird Ravine
+1246,2026-06-23 08:46:00,casual,77.2,Kinnaird Ravine,Legislature Grounds
+1302,2026-06-23 18:29:00,member,17.7,Kinnaird Ravine,Bonnie Doon
+1223,2026-06-23 19:33:00,casual,7.5,Riverdale,Whyte Ave & 104 St
+1196,2026-06-23 20:04:00,member,5.3,Whyte Ave & 104 St,Kinnaird Ravine
+1301,2026-06-23 20:20:00,casual,29.4,Bonnie Doon,Old Strathcona Market
+1016,2026-06-24 06:47:00,member,9.8,Rossdale,Government House Park
+1043,2026-06-24 15:01:00,casual,,Government House Park,Riverdale
+1383,2026-06-24 23:51:00,casual,9.4,Whyte Ave & 104 St,MacEwan University
+1076,2026-06-25 04:10:00,member,6.2,Rossdale,Rossdale
+1341,2026-06-25 04:12:00,member,10.2,Whyte Ave & 104 St,MacEwan University
+1323,2026-06-25 07:06:00,member,8.1,Old Strathcona Market,Government House Park
+1178,2026-06-25 13:31:00,casual,12.5,Kinnaird Ravine,Grandin Station
+1330,2026-06-25 15:06:00,member,5.2,MacEwan University,Government House Park
+1238,2026-06-25 17:15:00,casual,13.5,Riverdale,Legislature Grounds
+1117,2026-06-26 01:13:00,casual,12.8,Old Strathcona Market,Rossdale
+1078,2026-06-26 03:53:00,casual,6.1,MacEwan University,Kinnaird Ravine
+1169,2026-06-26 04:45:00,member,8.7,Riverdale,Bonnie Doon
+1045,2026-06-26 04:50:00,casual,10.7,Grandin Station,Legislature Grounds
+1038,2026-06-26 08:44:00,member,4.6,MacEwan University,Riverdale
+1170,2026-06-26 08:58:00,casual,16.0,Rossdale,Bonnie Doon
+1157,2026-06-26 12:08:00,member,10.1,MacEwan University,Rossdale
+1220,2026-06-26 13:57:00,member,11.5,Bonnie Doon,Government House Park
+1115,2026-06-26 15:18:00,member,16.6,Government House Park,Grandin Station
+1278,2026-06-26 18:14:00,member,7.7,Riverdale,Legislature Grounds
+1376,2026-06-26 20:11:00,member,12.0,Kinnaird Ravine,Government House Park
+1336,2026-06-27 00:04:00,member,15.0,Kinnaird Ravine,Bonnie Doon
+1258,2026-06-27 01:25:00,member,9.7,Whyte Ave & 104 St,Kinnaird Ravine
+1194,2026-06-27 04:04:00,casual,23.2,Kinnaird Ravine,Government House Park
+1327,2026-06-27 04:41:00,casual,10.8,MacEwan University,Bonnie Doon
+1073,2026-06-27 07:41:00,casual,22.8,Kinnaird Ravine,MacEwan University
+1373,2026-06-27 09:04:00,member,12.0,Grandin Station,Old Strathcona Market
+1289,2026-06-27 13:38:00,member,13.1,Whyte Ave & 104 St,Rossdale
+1176,2026-06-27 17:34:00,member,10.5,Old Strathcona Market,MacEwan University
+1165,2026-06-27 17:53:00,member,184.4,Legislature Grounds,Government House Park
+1003,2026-06-27 18:43:00,casual,22.1,Riverdale,Rossdale
+1240,2026-06-27 21:50:00,member,7.1,Government House Park,Rossdale
+1215,2026-06-28 01:40:00,casual,25.2,Rossdale,Grandin Station
+1222,2026-06-28 02:36:00,member,11.0,Legislature Grounds,Legislature Grounds
+1276,2026-06-28 08:36:00,member,8.9,Whyte Ave & 104 St,Whyte Ave & 104 St
+1382,2026-06-28 08:43:00,casual,14.0,Kinnaird Ravine,MacEwan University
+1058,2026-06-28 11:19:00,member,16.3,Riverdale,Grandin Station
+1315,2026-06-28 14:33:00,member,14.9,Government House Park,Government House Park
+1213,2026-06-28 16:55:00,member,10.0,Rossdale,Rossdale
+1088,2026-06-28 18:18:00,member,9.8,Bonnie Doon,Grandin Station
+1359,2026-06-28 23:08:00,member,9.4,Grandin Station,MacEwan University
+1385,2026-06-29 00:55:00,member,19.6,Bonnie Doon,Whyte Ave & 104 St
+1295,2026-06-29 02:36:00,casual,29.8,Old Strathcona Market,Kinnaird Ravine
+1172,2026-06-29 02:43:00,member,5.7,Government House Park,Riverdale
+1081,2026-06-29 05:29:00,casual,16.2,Rossdale,MacEwan University
+1100,2026-06-29 06:38:00,casual,17.3,MacEwan University,Rossdale
+1124,2026-06-29 06:47:00,member,11.1,Old Strathcona Market,MacEwan University
+1156,2026-06-29 08:51:00,casual,12.1,Legislature Grounds,MacEwan University
+1144,2026-06-29 10:26:00,member,18.2,Bonnie Doon,Kinnaird Ravine
+1235,2026-06-29 11:13:00,casual,14.9,Bonnie Doon,Bonnie Doon
+1351,2026-06-29 16:15:00,member,12.8,Government House Park,Riverdale
+1369,2026-06-29 18:37:00,member,20.1,Kinnaird Ravine,Riverdale
+1134,2026-06-29 21:40:00,member,18.7,Bonnie Doon,Bonnie Doon
+1087,2026-06-29 22:28:00,casual,16.2,Rossdale,Riverdale
+1300,2026-06-30 01:38:00,member,7.3,Grandin Station,Old Strathcona Market
+1313,2026-06-30 06:26:00,member,6.0,Bonnie Doon,Government House Park
+1065,2026-06-30 09:04:00,member,8.5,Kinnaird Ravine,Rossdale
+1162,2026-06-30 12:46:00,casual,10.9,Legislature Grounds,Bonnie Doon
+1198,2026-06-30 18:01:00,casual,10.5,Bonnie Doon,Legislature Grounds
+1348,2026-06-30 18:27:00,member,8.3,Old Strathcona Market,Rossdale

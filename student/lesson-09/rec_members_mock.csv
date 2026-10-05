@@ -1,0 +1,21 @@
+member_id,first_name,last_name,age,neighbourhood,membership_type,signup_date,phone,monthly_fee
+M1001,Priya,Sharma,34,Oliver,Adult,2026-01-15,780-555-0142,45.00
+M1002,Liam,O'Connor,67,Glenora,Senior,2026-02-03,780-555-0187,25.00
+M1003,Aisha,Mohamed,,Mill Woods,Adult,2026-02-10,780-555-0119,45.00
+M1004,Noah,Tremblay,15,Castle Downs,Youth,2026-02-21,780-555-0163,20.00
+M1005,Emma,Nguyen,29,oliver,Adult,02/28/2026,780-555-0171,45.00
+M1006,Mateo,Garcia,217,Strathcona,Adult,2026-03-04,780-555-0108,45.00
+M1007,Chloe,Wilson,41,Rossdale,adult,2026-03-11,N/A,45.00
+M1008,Ethan,Lee,8,Mill Woods,Senior,2026-03-19,780-555-0135,25.00
+M1009,Sofia,Rossi,52,Strathcona ,Adult,"Mar 25, 2026",780-555-0126,0.00
+M1010,Omar,Haddad,38,Castle Downs,Adult,2026-04-02,780-555-0150,45.00
+M1010,Omar,Haddad,38,Castle Downs,Adult,2026-04-02,780-555-0150,45.00
+M1011,Grace,Kim,24,Olivr,Student,2026-04-14,780-555-0194,30.00
+M1012,Lucas,Martin,73,Glenora,Senior,2026-04-20,,25.00
+M1013,Hannah,Singh,19,Mill Woods,Student,2026-05-01,780-555-0111,$30
+M1014,Jacob,Brown,45,Rossdale,unknown,2026-05-09,780-555-0177,45.00
+M1015,Zoe,Campbell,31,Strathcona,Adult,2027-05-16,780-555-0148,45.00
+M1016,Ben,Clarke,-4,Oliver,Adult,2026-06-02,780-555-0102,45.00
+M1017,Mia,Patel,26,MILL WOODS,Student,2026-06-18,780-555-0156,300.00
+M1018,Priya,Sharma,34,Oliver,Adult,2026-07-01,780-555-0142,45.00
+M1019,Daniel,Wong,58,Castle Downs,Adult,2026-07-12,780-555-0189,45.00

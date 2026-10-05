@@ -1,0 +1,147 @@
+Booking ID,Member #,Facility ID,Activity,Booking Date,Hours ,Hourly Rate,Status
+5036,M1035,F06,Lane  Swim,"Sep 26, 2026",2,$8.00,Completed
+5103,M1049,F01,Lane Swim,2026-09-19,1,$8.00,Completed
+5063,M1028,F04,Court Rental,2026-09-08,1,45.00,Completed
+5122,M1051,F02,Gym Drop-in,2026-09-18,1,$10.00,Completed
+5113,M1018,F06,LANE SWIM,2026-09-05,1.5,8.00,Completed
+5054,M1005,F03,Public Skate,2026-09-22,1,6.00,Completed
+5050,M1006,F04,court rental,09/04/2026,2,45.00,Completed
+5069,M1045,F05,Gym Drop-in,2026-09-16,1.5,10.00,Completed
+5006,M1049,F02,Gym Drop In,2026-09-22,3,10.00,Completed
+5073,M1034,F03,Public Skate,2026-09-03,1,6.00,Completed
+5057,M1021,F02,Gym Drop In,2026-09-14,1,10.00,Completed
+5059,M1037,F02,FITNESS CLASS,2026-09-19,1,12.00,Completed
+5121,M1041,F04,Court Rental,2027-09-14,1,45.00,Completed
+5005,M1019,F03,Public Skate,2026-09-25,1,6.00,No Show
+5074,M1052,F02,Fitness Class,2026-09-17,1,12.00,Completed
+5030,M1030,F06,Lane Swim,09/20/2026,1,8.00,Completed
+5047,M1012,F04,court rental,2026-09-15,2,45.00,COMPLETE
+5052,M1013,F01,Lane Swim,2026-09-02,2,8.00,Completed
+5082,M1035,F03,public skate,"Sep 30, 2026",2,6.00,Completed
+5102,M1041,F03,Public Skate,2026-09-10,1,6.00,Completed
+5140,M1023,F01,Lane Swim,2026-09-24,2,8.00,completed
+5089,M1014,F04,Court Rental,2026-09-26,24,45.00,Completed
+5029,M1016,F04,court rental,09/02/2026,2,45.00,completed
+5068,M1042,F03,Public Skate,2026-09-29,2,6.00,Completed
+5116,M1047,F02,Gym Drop In,09/22/2026,3,10.00,No-show
+5070,M1058,f02,Gym Drop-in,"Sep 10, 2026",1,10.00,Completed
+5078,M1043,F04,Court Rental,"Sep 19, 2026",2,,completed
+5119,M1045,F04,court rental,"Sep 10, 2026",3,45.00,Complete
+5037,M1058,F05,Lane Swim,2026-09-19,1.5,8.00,Completed
+5049,M1028,F06,Lane  Swim,2026-09-02,1.5,8.00,Completed
+5076,M1058,F05,Gym Drop In,2026-09-26,3,10.00,no show
+5095,M1025,F06,Lane Swim,"Sep 01, 2026",1,8.00,Completed
+5115,M1015,F05,Fitness Class,"Sep 03, 2026",1,12.00,Completed
+5104,M1022,F05,Gym drop-in ,"Sep 22, 2026",2,10.00,Completed
+5132,M1038,F05,Gym Drop-in,2026-09-23,3,10.00,Completed
+5124,M1038,F05,Fitness Class,"Sep 15, 2026",1.5,12.00,Completed
+5126,M1023,F02,Gym Drop-in,2026-09-30,1,10.00,Completed
+5138,M1011,F04,Court rental,2026-09-21,3,$45.00,Completed
+5130,M1017,F03,PUBLIC SKATE ,2026-09-08,2,6.00,Completed
+5043,M1018,F06,Lane Swim,2026-09-25,1,8.00,Completed
+5023,M1009,F06,Lane Swim,2026-09-19,2,8.00,Completed
+5107,M1044,F06,Swim,2026-09-20,1,8.00,Completed
+5042,M1057,f02,Fitness Class,2026-09-23,1,$12.00,No-show
+5112,M1035,F04,Court Rental,2026-09-11,2,45.00,Completed
+5018,M1005,F03,PUBLIC SKATE ,"Sep 29, 2026",1.5,6.00,Cancelled
+5021,M1047,F06,Lane Swim,"Sep 11, 2026",2,8.00,Completed
+5024,M1002,F01,Lane Swim,23-Sep-2026,,8.00,Completed
+5086,M1050,F01,Lane Swim,2026-09-14,1,$8.00,Completed
+5026,M1055,F06,Lane  Swim,2026-09-15,1,8.00,Completed
+5099,M1001,F06,Lane Swim,2026-09-28,,8.00,Completed
+5067,M1003,F01,Lane  Swim,2026-09-25,1,8.00,Completed
+5110,M1055,F06,Lane Swim,"Sep 20, 2026",1,8.00,Complete
+5001,M1041,F02,gym drop-in,04-Sep-2026,1,10.00,Completed
+5039,M1039,F04,Court Rental,09/14/2026,1,45.00,No-show
+5028,M1030,F01,Lane Swim,16-Sep-2026,1,8.00,completed
+5016,M1028,F03,public skate,"Sep 29, 2026",1.5,,Completed
+5046,M1003,F04,Court rental,2026-09-04,2,45.00,Completed
+5079,M1003,F02,fitness class,2026-09-05,1.5,12.00,Completed
+5003,M1029,F04,Court Rental,09/20/2026,3,45.00,Completed
+5006,M1049,F02,Gym Drop In,2026-09-22,3,10.00,Completed
+5120,M1028,F05,Fitness Class,2026-09-03,1,12.00,Canceled
+5100,M1018,F04,Court rental,2026-09-18,1,$45.00,COMPLETE
+5058,M1020,F01,Lane Swim,2026-09-03,1,8.00,Completed
+5060,M1009,F02,Gym Drop-in,2026-09-26,1,10.00,Completed
+5044,M1007,F03,public skate,2026-09-30,1,$6.00,completed
+5129,M1040,F06,Lane Swim,2026-09-27,2,$8.00,Completed
+5091,M1038,F05,gym drop-in,2026-09-26,3,10.00,Completed
+5065,M1038,F07,Gym Drop-in,2026-09-05,1.5,10.00,completed
+5108,M1035,F06,Lane Swim,"Sep 21, 2026",1,8.00,Completed
+5090,M1016,F01,Lane Swim,2026-09-08,1,$8.00,completed
+5011,M1048,F04,Court Rental,2026-09-26,1,45.00,Complete
+5034,M1002,F06,Lane Swim,"Sep 16, 2026",-2,8.00,Cancelled
+5020,M1020,F02,Fitness Class,2026-09-22,1.5,$12.00,Cancelled
+5098,M1035,F01,Lane Swim,2026-09-28,1,8.00,Completed
+5008,M1013,F03,Skate,04-Sep-2026,,6.00,completed
+5035,M1037,F05,Gym Drop-in,2026-09-11,1.5,10.00,COMPLETE
+5094,M1017,F01,Swim,2026-09-23,1,8.00,Completed
+5136,M1005,F03,PUBLIC SKATE ,20-Sep-2026,1.5,$6.00,Completed
+5061,M1008,F02,Gym drop-in ,2026-09-21,3,$10.00,Completed
+5031,M1014,f03,Public Skate,2026-09-21,2,6.00,Cancelled
+5053,M1022,F04,Court Rental,2026-09-26,2,450.00,Completed
+5123,M1013,F04,Court Rental,2026-09-29,2,45.00,completed
+5072,M1026,F02,Fitness class,21-Sep-2026,1,12.00,Completed
+5101,M1015,F01,Lane Swim,2026-09-10,1,8.00,Completed
+5137,M1040,F03,Public Skate,25-Sep-2026,2,6.00,COMPLETE
+5109,M1045,F01,Lane Swim,2026-09-03,1.5,8.00,Completed
+5002,M1014,F01,Lane Swim,2026-09-07,1.5,8.00,Cancelled
+5081,M1017,F03,public skate,2026-09-20,1.5,6.00,Completed
+5097,M1030,F01,Swim,2026-09-11,2,8.00,Completed
+5087,M1012,F01,Lane Swim,2026-09-04,1,8.00,Completed
+5051,M1002,F03,Public Skate,23-Sep-2026,1,6.00,Completed
+5040,M1043,F05,Fitness Class,2026-09-17,1,12.00,No-show
+5096,M1047,F01,LANE SWIM,2026-09-25,1,$8.00,Completed
+5012,M1025,F07,Gym Drop-in,"Sep 07, 2026",3,10.00,Completed
+5128,M1022,F06,Lane Swim,2026-09-14,1.5,8.00,Completed
+5045,M1021,f02,Fitness Class,09/25/2026,1.5,12.00,Completed
+5031,M1014,f03,Public Skate,2026-09-21,2,6.00,Cancelled
+5088,M1059,F03,Public Skate,2026-09-08,1.5,6.00,Completed
+5106,M1037,F05,Lane Swim,08-Sep-2026,1.5,8.00,No-show
+5019,M1038,f03,Public Skate,30-Sep-2026,1.5,6.00,No Show
+5041,M1057,F06,Lane Swim,2026-09-09,unknown,8.00,Completed
+5010,M1033,F01,Lane Swim,2026-09-30,1.5,$8.00,Completed
+5055,M1047,F04,Court Rental,2026-09-08,2,45.00,Completed
+5110,M1055,F06,Lane Swim,"Sep 20, 2026",1,8.00,Complete
+5134,M1041,F02,Fitness Class,2026-09-06,1.5,12.00,completed
+5090,M1016,F01,Lane Swim,2026-09-08,1,$8.00,completed
+5033,M1049,F04,Court Rental,09/12/2026,1,$45.00,Canceled
+5139,M1037,F03,PUBLIC SKATE ,"Sep 06, 2026",2,6.00,Completed
+5004,M1025,F02,gym drop-in,2026-09-24,3,10.00,Completed
+5007,M1002,F01,Lane Swim,2026-09-15,1.5,8.00,Completed
+5118,M1037,F06,Lane Swim,2026-09-25,1,8.00,No-show
+5071,M1042,F01,lane swim,2026-09-16,20,8.00,Canceled
+5117,M1051,f01,Lane  Swim,"Sep 06, 2026",1,8.00,Completed
+5127,M1041,F03,Public Skate,2026-09-22,1,6.00,completed
+5092,M1008,F01,Lane Swim,2026-09-15,1,8.00,COMPLETE
+5075,M1038,F05,Fitness Class,"Sep 06, 2026",1,12.00,Completed
+5048,M1033,F03,Public Skate,09/17/2026,1,6.00,Completed
+5062,M1058,F04,Court Rental,2026-09-18,,45.00,completed
+5014,M1008,F06,Lane  Swim,13-Sep-2026,1,8.00,Completed
+5133,M1047,F02,Gym Drop In,2026-09-13,3,10.00,Completed
+5017,M1031,F01,lane swim,08-Sep-2026,1,8.00,Completed
+5066,M1006,F04,Court Rental,2026-09-08,3,$45.00,Completed
+5093,M1017,F03,Public Skate,2026-09-02,1.5,6.00,COMPLETE
+5125,M1041,f03,Public Skate,2026-09-01,2,6.00,Completed
+5111,M1012,F01,Lane Swim,"Sep 22, 2026",1.5,$8.00,Completed
+5015,M1052,F03,Public Skate,"Sep 09, 2026",1.5,6.00,Completed
+5025,M1024,F04,Court Rental,2026-09-23,1,45.00,Completed
+5084,M1025,F05,Lane Swim,2026-09-24,1.5,8.00,Completed
+5131,M1017,F07,Gym Drop-in,2026-09-30,1,10.00,Completed
+5064,M1016,F02,Gym Drop-in,2026-09-10,3,10.00,COMPLETE
+5046,M1003,F04,Court rental,2026-09-04,2,45.00,Completed
+5077,M1035,F02,Fitness Class,09/03/2026,1,12.00,Completed
+5080,M1016,F02,fitness class,2026-09-14,1,12.00,no show
+5027,M1010,F06,Lane Swim,2026-09-09,1.5,8.00,Completed
+5013,M1060,F04,Court Rental,2026-09-26,2,45.00,Cancelled
+5071,M1042,F01,lane swim,2026-09-16,1.5,8.00,Canceled
+5032,M1052,F04,Court Rental,11-Sep-2026,2,45.00,Complete
+5009,M1052,F06,Lane  Swim,2026-09-29,2,8.00,Complete
+5085,M1019,F02,Gym Drop-in,2026-09-04,3,10.00,Completed
+5022,M1011,F05,Gym Drop-in,09/08/2026,1,10.00,Completed
+5114,M1017,F04,Court rental,2026-09-23,2,45.00,Completed
+5083,M1036,F05,Gym Drop-in,09/18/2026,2,$10.00,Completed
+5135,M1043,f03,Public Skate,24-Sep-2026,2,6.00,Completed
+5105,M1012,F01,Lane Swim,2026-09-31,1,8.00,completed
+5056,M1051,F01,Lane Swim,2026-09-21,1,8.00,Completed
+5038,M1048,F05,Gym Drop-in,2026-09-13,1.5,10.00,COMPLETE
