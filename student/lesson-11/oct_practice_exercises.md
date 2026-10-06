@@ -1,5 +1,5 @@
 # October Bookings: Exercise Guide
-SDEV2501 · Day 11 · Practice · Goes with `oct_practice_starter_v2.ipynb`
+SDEV2501 · Day 11 · Practice · Goes with `oct_practice_starter.ipynb`
 
 Today you clean a messy file with a lot less hand-holding. Work on your own or with a partner, whichever you prefer. The section numbers match the notebook. Each step tells you what to do and lists the functions, methods and operators you'll need; putting them together is up to you.
 
@@ -7,11 +7,15 @@ What this guide won't tell you is what's wrong with the October file. That's not
 
 When you've finished a step, check yourself against the **answer key** at the end. Try first, then look. The answer key gives away every problem in the file, so if you read it before you start, you've just turned a detective story into a shopping list.
 
+One more thing: in a few places the notebook asks you to write your reasoning down in a Markdown cell, in plain sentences or bullets. Don't skip those. Code shows *what* you did; the writing shows *why*, and the why is the part that's hard to fake.
+
 ---
 
 ## Before you start
 
-Put the notebook (`oct_practice_starter_v2.ipynb`), `bookings_oct_messy.csv`, `bookings_sept_clean.csv` and `facilities.csv` in **one folder**. Open the folder in VS Code, open the notebook, pick your kernel, and run the imports cell.
+Put the notebook (`oct_practice_starter.ipynb`), `bookings_oct_messy.csv`, `bookings_sept_clean.csv` and `facilities.csv` in **one folder**. Open the folder in VS Code, open the notebook, pick your kernel, and run the imports cell.
+
+Put your name in the first Markdown cell. Yes, now. It's the thing people forget.
 
 ---
 
@@ -25,11 +29,13 @@ You'll need: `pd.read_csv()`, `.head()`, the `.shape` attribute, `list()` on the
 
 **1.2** Load `bookings_sept_clean.csv` into `sept` and list its columns too. Put the two lists side by side. Which names don't match? Which columns does September have that October doesn't?
 
+Then look at October's names on their own merits. In the Markdown cell, write down any name that's unclear, inconsistent with the others, or awkward to type in code, and say what's wrong with it. A column name is a tiny piece of documentation; a bad one makes every line that uses it harder to read.
+
 You'll need: the same as 1.1
 
 ## 2. Inspect
 
-Look, don't touch. Nothing in this section should change `df`. Every problem you find goes in the findings table at the end of section 2, because future-you will not remember.
+Look, don't touch. Nothing in this section should change `df`. Every problem you find goes in the findings list at the end of section 2, because future-you will not remember.
 
 ### 2.1 Missing values
 Count the missing values in each column. Which columns have them?
@@ -66,7 +72,7 @@ Make a numeric copy of the rate called `rate_check` (you'll have to deal with th
 You'll need: `.str.replace()` with `regex=False`, `pd.to_numeric()`, `.plot()` with `kind="hist"` and `bins`, `plt.show()`, `.value_counts()`
 
 ### Findings
-Fill in the findings table (double-click the markdown cell to edit it). Write one row per problem, including whether you plan to fix, flag or leave it.
+Fill in the findings list (double-click the Markdown cell to edit it). One bullet per problem: what is wrong, which column, how you found it, and whether you plan to fix, flag or leave it.
 
 ## 3. Clean
 
@@ -81,6 +87,8 @@ You'll need: `.rename()` with its `columns` argument (a dictionary of `{old: new
 
 ### 3.2 Remove duplicates
 Drop the exact duplicates and check that every booking ID is now unique.
+
+Then, in the Markdown cell, write two or three sentences on how you identified them: which check you ran, what counts as a duplicate here (a whole repeated row? a repeated ID?), and how many you removed. Practise saying it clearly: a reader who only sees the number has to take your word for it.
 
 You'll need: `.drop_duplicates()`, the `.is_unique` attribute
 
@@ -104,7 +112,9 @@ Deal with each column that has blanks, one at a time:
 3. **hours:** add a True/False column called `hours_imputed` that marks the blanks, *then* fill them with the median.
 4. **member_id:** decide what to do, and write down why.
 
-Fill `activity` before `hourly_rate`, because the rate lookup needs the activity. Only change the blank rows. Then count what's still missing. Three columns had blanks and you made three different decisions: what made each one different?
+Fill `activity` before `hourly_rate`, because the rate lookup needs the activity. Only change the blank rows. Then count what's still missing.
+
+Four columns had blanks and you made four decisions, not all of them the same. In the Markdown cell, justify each one: did you delete, fill (impute) or leave, and why was that the right call for that column? "Because the guide said so" doesn't count.
 
 You'll need: `.groupby()`, `.unique()`, `.isna()`, `.loc[]`, a dictionary, `.map()`, `.median()`, `.fillna()`
 
@@ -127,6 +137,8 @@ Before you start Part B, stop and think. You have September bookings, October bo
 
 Two clean months, one question: what happens when you put them together? Restart the kernel, run the imports cell, then jump to section 4.
 
+Sections 4 to 7 are the target for today. Section 8 is there if you're on a roll.
+
 ## 4. Stack the two months
 
 **4.1** Load both clean files into `sept` and `october`. (Don't call it `oct`: that's already a built-in Python function, and you'd be overwriting it.) Add an `export` column to each that says `"September"` or `"October"`, then stack them into one DataFrame called `both`. Check its shape.
@@ -143,12 +155,31 @@ Convert `booking_date` to real dates, storing the result in a variable called `p
 You'll need: `pd.to_datetime()` with `format="mixed"` and `errors="coerce"`, `.isna()`, `|`, date comparisons against strings like `"2026-09-01"`, `.loc[]` to assign, the `.dt` accessor with `.month_name()`, `.value_counts()` with `dropna=False`
 
 ## 6. Totals and facility names
-Create `booking_total` (hours × hourly rate), and set it to 0 for bookings that weren't completed. Then load `facilities.csv` and left-merge it onto `both` using `facility_id`, with the indicator column, and count how many rows matched. You fixed `F7` in Part A. Why doesn't it match now?
+Create `booking_total` (hours × hourly rate), and set it to 0 for bookings that weren't completed. Then load `facilities.csv` and left-merge it onto `both` using `facility_id`, with the indicator column. Show the first few rows of the result so you can see the facility name sitting next to the booking, then count how many rows matched. You fixed `F7` in Part A. Why doesn't it match now?
 
-You'll need: column arithmetic, `!=`, `.loc[]`, `pd.read_csv()`, `.merge()` with `on`, `how` and `indicator`, `.value_counts()`
+You'll need: column arithmetic, `!=`, `.loc[]`, `pd.read_csv()`, `.merge()` with `on`, `how` and `indicator`, `.head()`, `.value_counts()`
 
-## 7. Questions
-Use only the completed bookings that aren't flagged for review, and save them in a variable called `good`.
+## 7. Quick analysis
+Three small jobs that come up in almost every analysis: put a column on a common scale, summarize a total, and find the values that don't fit. Work on `merged`, the DataFrame that came out of section 6.
+
+**7.1 Scale the rate.** Add a column called `rate_scaled` that puts `hourly_rate` on a common scale. Pick **one** of the two usual methods: min-max scaling (every value lands between 0 and 1) or z-score standardization (every value becomes "how many standard deviations from the mean"). Both are one line of arithmetic on the column. No library, no import, no excuse.
+
+Before you choose, look at the distinct values of `hourly_rate` and count them. Then write one or two sentences in the Markdown cell on why the method you picked suits this column. Hint: one of the two methods assumes the data is roughly bell-shaped. Is it?
+
+You'll need: `.unique()` or `.value_counts()`, `.min()`, `.max()`, `.mean()`, `.std()`, column arithmetic, `.describe()` to check the result
+
+**7.2 Mean and median booking total.** Filter down to the completed bookings that aren't flagged for review, and save them in a variable called `good`. (Section 8 uses it too.) Then find the mean and the median of `booking_total` in `good`. They won't agree. In the Markdown cell, say which one you'd quote as the "typical" booking and why the two are so far apart.
+
+You'll need: boolean indexing with `&` and `~`, `.mean()`, `.median()`, `.describe()`
+
+**7.3 Find an outlier.** Find at least one outlier booking in `good` by `booking_total`, using either the IQR rule (anything above Q3 + 1.5 × IQR) or a z-score (anything more than 3 standard deviations from the mean). Show the rows you caught, sorted by total.
+
+Then look at what you caught and answer in the Markdown cell: are these bookings *wrong*, or just *big*? Would you remove them before reporting revenue? Try the other method too, if you have time, and compare how many rows each one flags. (They won't agree either. Nothing in this section agrees with anything.)
+
+You'll need: `.quantile()` (pass it `0.25` and `0.75`), arithmetic, comparison operators, boolean indexing, `.sort_values()`; for the z-score route, `.mean()`, `.std()` and `.abs()`
+
+## 8. Questions (stretch)
+Use `good` from 7.2.
 
 **Q1.** Which facility made the most money in October?
 
@@ -158,12 +189,22 @@ You'll need: boolean indexing on `month`, `.groupby()`, `.agg()` with a list of 
 
 You'll need: `.groupby()`, `.agg()` or `.sum()`, `.max()` on the October dates
 
-**Q3 (stretch).** Which activity had the most no-shows across both months? Is "most no-shows" the same thing as "worst no-show rate"?
+**Q3.** Which activity had the most no-shows across both months? Is "most no-shows" the same thing as "worst no-show rate"?
 
 You'll need: boolean indexing, `.groupby()`, `.count()`, `.sort_values()`
 
 ## Wrap-up
 Answer the last cell in the notebook: the hardest problem to find, and which check found it.
+
+## Before you finish
+Nothing today gets handed in, but this is the routine for any notebook you ever do hand to someone, and it's where things quietly go wrong. So practise it now:
+
+1. Your name is in the first Markdown cell and in the file name (`oct_practice_<yourname>.ipynb`).
+2. Every section has a Markdown heading, and every "write it in Markdown" cell actually has writing in it.
+3. **Restart the kernel and run all cells** (in VS Code: `Restart` then `Run All` on the notebook toolbar). That runs Part A and then Part B in one go, which works because Part B reloads everything from the saved CSV. Nothing should error.
+4. Scroll through once. All the output is there, nothing says `NameError`, and the numbers match the answer key or you know why they don't.
+
+If step 3 fails, the usual suspect is a cell that depends on something you ran earlier and then deleted or moved. Fix the order, not the symptom.
 
 ---
 
@@ -177,6 +218,8 @@ Answer the last cell in the notebook: the hardest problem to find, and which che
 | `Columns match? False` | A rename was missed, or `hours_imputed` / `needs_review` wasn't created |
 | `both` has extra half-empty columns | You stacked before renaming. Column names must match exactly |
 | `NameError` in Part B | You restarted the kernel but didn't re-run the imports cell |
+| `NameError: name 'good' is not defined` | `good` is created in 7.2. Run that cell first |
+| `rate_scaled` is all `NaN` or all the same number | Check the denominator: `max - min` or `std()`. If you divided by a Series instead of a number, go back and look at what `.max()` returns |
 | "It ran, but nothing changed" | You didn't assign the result back |
 | `ValueError: The truth value of a Series is ambiguous` | You used `and` / `or` instead of `&` / `\|` |
 
@@ -191,19 +234,19 @@ Spoilers below: this lists every problem in the October file. Try each step befo
 | Step | What you should see |
 |---|---|
 | 1.1 | `(117, 8)` |
-| 1.2 | Three names don't match: October has `facility`, `date` and `rate ($/hr)` where September has `facility_id`, `booking_date` and `hourly_rate`. September also has `hours_imputed` and `needs_review`, which were added when it was cleaned |
+| 1.2 | Three names don't match: October has `facility`, `date` and `rate ($/hr)` where September has `facility_id`, `booking_date` and `hourly_rate`. September also has `hours_imputed` and `needs_review`, which were added when it was cleaned. On their own merits: `rate ($/hr)` has spaces, brackets and a `$`, so you can't use `df.rate` and it's a pain to type; `date` doesn't say *which* date (booked on? booked for?); `facility` holds a code, not a name, so `facility_id` is more honest. The rest follow `snake_case`, so the fixed names should too |
 | 2.1 | `member_id` 1, `activity` 1, `hours` 3, `rate ($/hr)` 1 |
 | 2.2 | 4 and 4: every repeated ID is an exact duplicate. If the ID count were higher, you'd have the same booking recorded with different details, and you'd have to decide which one is right |
 | 2.3 | `activity` has 20 spellings (some with trailing spaces) plus one missing value, for 5 real activities. `status` has 10 spellings of 3. `facility` has `f03` and **`F7`**: no amount of uppercasing adds the missing zero |
 | 2.4 | `count` is 109 but 114 hours aren't blank, so 5 didn't convert. Min is **0** (booking 5168): a booking with no time is impossible |
-| 2.5 | Everything except `booking_id` is `str`. The 5 hours that didn't convert are recorded in **minutes**: `60 min`, `90 min`, `120 min` (bookings 5147, 5157, 5158, 5227, 5239). Strip ` min`, convert, divide by 60. The rates have `$` signs and a suspicious `4.50` |
+| 2.5 | Everything except `booking_id` is `str` (older pandas versions call it `object`; same thing). The 5 hours that didn't convert are recorded in **minutes**: `60 min`, `90 min`, `120 min` (bookings 5147, 5157, 5158, 5227, 5239). Strip ` min`, convert, divide by 60. The rates have `$` signs and a suspicious `4.50` |
 | 2.6 | The histogram looks normal: `4.50` sits right next to the $6 bar. The value counts give it away: every rate appears 15+ times except one `4.5`. It's booking 5185, a court rental, so $45 with a slipped decimal. No single check catches everything |
 | Findings | Renamed headers; 4 duplicates; spelling variants (activity, status); bad facility keys (`f03`, `F7`); missing activity, hours, rate and member; zero hours; hours in minutes; `$` in rates; the $4.50 rate; dates stored as text in mixed formats |
 | 3.1 | `list(df.columns)` shows `facility_id`, `booking_date`, `hourly_rate` |
-| 3.2 | 113 rows, `True` |
+| 3.2 | 113 rows, `True`. A good write-up says something like: "I ran `df.duplicated().sum()` and found 4 rows identical in every column, then checked `booking_id` on its own and got the same 4, so each repeat was the whole row and not two different bookings sharing an ID. I dropped them with `drop_duplicates()`, leaving 113" |
 | 3.3 | Lane Swim 38, Public Skate 22, Court Rental 20, Gym Drop-In 17, Fitness Class 15, plus 1 missing. completed 91, no-show 13, cancelled 9. Facility IDs F01-F06 plus one F07 |
 | 3.4 | Hours max is **3**. If yours is 120, you converted the minutes but didn't divide. If you divided every row, your max will be tiny. Rate min is still 4.5 until 3.6 |
-| 3.5 | F04 only ever hosts Court Rental, so the missing activity (booking 5153) is Court Rental: that's a **fix** from another column, not a guess. The rate is a **fix** from the price list. The hours are a **guess** (median 1.5, 3 rows). `member_id`: **leave it**. The booking happened and the money is real; you just can't count it per member. Afterwards only `member_id` has a missing value |
+| 3.5 | F04 only ever hosts Court Rental, so the missing activity (booking 5153) is Court Rental: that's a **fix** from another column, not a guess. The rate is a **fix** from the price list. The hours are a **guess** (median 1.5, 3 rows), which is why they get flagged in `hours_imputed`. `member_id`: **leave it**. The booking happened and the money is real; you just can't count it per member. Afterwards only `member_id` has a missing value. Nothing was deleted: with 113 rows, every one counts, and every blank could be filled or safely left |
 | 3.6 | 1 row flagged (5168). Hours min 1, max 3; rate min 6, max 45 |
 | 3.7 | `True`, `(113, 10)` |
 | Merge or concat | **Concat** stacks September and October (adds rows; needs the same column names). **Merge** adds the facility names (adds columns; needs a shared key) |
@@ -215,7 +258,10 @@ Spoilers below: this lists every problem in the October file. Try each step befo
 | 4.1 | `(253, 11)` |
 | 4.2 | 3 repeated IDs: **5130, 5135, 5139**. They're September bookings that also turned up in the October export. Inside October they were unique, so you could only catch them once the files were combined. Keep the September copy (`keep="first"`, since September was stacked first): 250 rows, all unique |
 | 5 | Two rows fail: 5105 has no date at all (it was blanked when September was cleaned) and **5207 is `2026-10-32`**. The range check also catches 2027-09-14 (5121). 6 flagged in total. Months: September 139, October 109, missing 2 |
-| 6 | 246 `both`, 4 `left_only`. All 4 are F07: fixing `F7` made it *consistent*, but F07 isn't in the facilities table, so it still can't match |
+| 6 | 246 `both`, 4 `left_only`. All 4 are F07: fixing `F7` made it *consistent*, but F07 isn't in the facilities table, so it still can't match. `merged` is 250 rows × 17 columns (the 13 from `both` plus `facility_name`, `neighbourhood`, `capacity` and `_merge`) |
+| 7.1 | `hourly_rate` has exactly **5** distinct values: 6, 8, 10, 12 and 45. That's a price list, not a bell curve, so **min-max** is the better fit: $6 → 0, $45 → 1, and the three in between land at 0.05, 0.10 and 0.15. A z-score still *runs* (the mean is about $15.30, so $45 comes out around +2.1 and the rest sit below zero), but "standard deviations from the mean" doesn't mean much when there are only five possible values. Either answer is fine if the reason is sound; "z-score because it sounded fancier" is not |
+| 7.2 | `good` has **204** rows. Mean **$25.44**, median **$12.00**. Quote the median as the typical booking: most bookings are one or two hours at $6-12, and the court rentals at $45/hour drag the mean up without being typical of anything |
+| 7.3 | **z-score (> 3):** 6 bookings, every one a 3-hour court rental at **$135** (5003, 5066, 5119, 5138, 5153, 5185). **IQR:** Q1 = 8.75, Q3 = 20, so the fence is 36.875 and **34** bookings are over it, which is every court rental of 1 hour or more. Neither method found an *error*: those are real bookings at the list price. (5185 is the one whose rate was `$4.50` in Part A; if you didn't fix it, it won't show up here.) Don't remove them before reporting revenue; the money is real. The two methods disagree by a factor of five because IQR is built from the middle 50%, which is all cheap bookings, so *anything* court-shaped looks extreme to it |
 | Q1 | **Strathcona Sports Hall, $1,237.50** from 14 bookings. Next is Oliver Fitness Hub, $341.00 from 20. Same story as September: court rentals at $45/hour |
 | Q2 | September **$3,028.50** (118 bookings), October **$2,160.50** (86). Down $868, because there were fewer completed bookings, not cheaper ones. The October dates run to October 31, so it is a full month |
 | Q3 | Lane Swim 6, Court Rental 5, Public Skate 5, Gym Drop-In 4, Fitness Class 3. But Lane Swim also has the most bookings, so a no-show *rate* (no-shows ÷ bookings) could tell a different story |
