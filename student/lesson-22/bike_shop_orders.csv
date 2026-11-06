@@ -1,0 +1,1195 @@
+order_id,order_date,customer_id,city,membership_type,channel,product_category,product,quantity,unit_price
+SC-50001,2025-11-01,C1282,Edmonton,Non-member,Online,Clothing,Jersey,1,85
+SC-50002,2025-11-01,C1503,Spruce Grove,Basic,In-store,Clothing,Winter balaclava,1,29
+SC-50003,2025-11-02,C1534,Leduc,Non-member,Online,Accessories,Light set,1,65
+SC-50004,2025-11-02,C1008,Edmonton,Non-member,In-store,Accessories,Lock,2,59
+SC-50005,2025-11-02,C1298,Edmonton,Basic,In-store,Clothing,Jersey,2,85
+SC-50006,2025-11-02,C1195,St. Albert,Non-member,In-store,Clothing,Jersey,3,85
+SC-50007,2025-11-03,C1345,Sherwood Park,Non-member,Online,Accessories,Helmet,3,89
+SC-50008,2025-11-03,C1119,Edmonton,Premium,In-store,Clothing,Cycling gloves,1,35
+SC-50009,2025-11-04,C1436,Edmonton,Non-member,In-store,Clothing,Jersey,2,85
+SC-50010,2025-11-04,C1213,Edmonton,Non-member,In-store,Accessories,Helmet,2,89
+SC-50011,2025-11-04,C1532,Spruce Grove,Basic,Online,Clothing,Rain jacket,2,149
+SC-50012,2025-11-04,C1001,Edmonton,Basic,In-store,Clothing,Rain jacket,1,149
+SC-50013,2025-11-04,C1384,Edmonton,Basic,Online,Accessories,Helmet,3,89
+SC-50014,2025-11-04,C1500,Edmonton,Non-member,Online,Clothing,Winter balaclava,1,29
+SC-50015,2025-11-05,C1318,Edmonton,Premium,Online,Clothing,Cycling gloves,2,35
+SC-50016,2025-11-06,C1031,Edmonton,Premium,In-store,Parts,Brake pads,2,28
+SC-50017,2025-11-06,C1303,Edmonton,Basic,Online,Parts,Brake pads,1,28
+SC-50018,2025-11-07,C1429,Leduc,Non-member,In-store,Parts,Inner tube,2,12
+SC-50019,2025-11-08,C1361,St. Albert,Basic,Online,Clothing,Winter balaclava,1,29
+SC-50020,2025-11-08,C1273,Leduc,Basic,In-store,Parts,Inner tube,1,12
+SC-50021,2025-11-11,C1254,Spruce Grove,Basic,Online,Bikes,Road bike,1,1649
+SC-50022,2025-11-11,C1063,Edmonton,Premium,In-store,Clothing,Cycling gloves,3,35
+SC-50023,2025-11-11,C1539,St. Albert,Non-member,Online,Clothing,Rain jacket,1,149
+SC-50024,2025-11-11,C1327,Edmonton,Basic,In-store,Parts,Tire,1,54
+SC-50025,2025-11-11,C1281,Sherwood Park,Non-member,In-store,Clothing,Jersey,3,85
+SC-50026,2025-11-12,C1452,Edmonton,Non-member,Online,Clothing,Jersey,1,85
+SC-50027,2025-11-12,C1257,Edmonton,Premium,In-store,Clothing,Cycling gloves,1,35
+SC-50028,2025-11-12,C1611,Spruce Grove,Non-member,Online,Accessories,Lock,1,59
+SC-50029,2025-11-12,C1017,Edmonton,Premium,Online,Clothing,Winter balaclava,1,29
+SC-50030,2025-11-14,C1571,St. Albert,Premium,In-store,Parts,Warranty replacement,1,0
+SC-50031,2025-11-16,C1255,St. Albert,Basic,Online,Accessories,Helmet,1,89
+SC-50032,2025-11-16,C1169,Edmonton,Premium,In-store,Accessories,Water bottle,2,14
+SC-50033,2025-11-16,C1518,Edmonton,Basic,Online,Clothing,Winter balaclava,1,29
+SC-50034,2025-11-18,C1216,Edmonton,Basic,Online,Parts,Brake pads,1,28
+SC-50035,2025-11-18,C1017,Edmonton,Premium,In-store,Accessories,Light set,1,65
+SC-50036,2025-11-19,C1489,Sherwood Park,Basic,In-store,Parts,Tire,1,54
+SC-50037,2025-11-19,C1300,St. Albert,Non-member,In-store,Accessories,Light set,1,65
+SC-50038,2025-11-19,C1638,St. Albert,Non-member,Online,Accessories,Helmet,2,89
+SC-50039,2025-11-20,C1383,Edmonton,Non-member,Online,Parts,Tire,1,54
+SC-50040,2025-11-21,C1200,Edmonton,Basic,Online,Accessories,Helmet,1,89
+SC-50041,2025-11-21,C1199,Edmonton,Basic,Online,Accessories,Helmet,3,89
+SC-50042,2025-11-22,C1594,Edmonton,Basic,In-store,Clothing,Cycling gloves,1,35
+SC-50043,2025-11-22,C1037,Edmonton,Non-member,In-store,Accessories,Helmet,2,89
+SC-50044,2025-11-23,C1046,Edmonton,Basic,In-store,Clothing,Rain jacket,1,149
+SC-50045,2025-11-25,C1401,Edmonton,Premium,In-store,Parts,Chain,1,39
+SC-50046,2025-11-26,C1479,Edmonton,Basic,Online,Clothing,Jersey,2,85
+SC-50047,2025-11-26,C1077,Edmonton,Basic,In-store,Clothing,Cycling gloves,1,35
+SC-50048,2025-11-26,C1158,Edmonton,Basic,Online,Accessories,Lock,2,59
+SC-50049,2025-11-28,C1425,Edmonton,Basic,Online,Accessories,Light set,2,65
+SC-50050,2025-11-28,C1241,Sherwood Park,Non-member,In-store,Parts,Inner tube,4,12
+SC-50051,2025-11-28,C1353,Edmonton,Basic,In-store,Clothing,Winter balaclava,1,29
+SC-50052,2025-11-29,C1209,Spruce Grove,Basic,In-store,Parts,Tire,1,54
+SC-50053,2025-11-30,C1382,Edmonton,Premium,Online,Bikes,Commuter bike,1,849
+SC-50054,2025-11-30,C1103,St Albert,Basic,In-store,Clothing,Rain jacket,1,149
+SC-50055,2025-11-30,C1305,Edmonton,Non-member,Online,Clothing,Cycling gloves,1,35
+SC-50056,2025-12-01,C1209,Spruce Grove,Basic,Online,Clothing,Jersey,4,85
+SC-50057,2025-12-01,C1333,Edmonton,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50058,2025-12-01,C1294,Edmonton,Premium,Online,Accessories,Water bottle,5,14
+SC-50059,2025-12-01,C1050,Edmonton,Premium,In-store,Parts,Brake pads,1,28
+SC-50060,2025-12-02,C1598,,Non-member,In-store,Accessories,Light set,1,65
+SC-50061,2025-12-02,C1096,St. Albert,Non-member,Online,Accessories,Light set,3,65
+SC-50062,2025-12-03,C1606,Edmonton,Premium,Online,Parts,Chain,1,39
+SC-50063,2025-12-03,C1063,Edmonton,Premium,In-store,Accessories,Water bottle,4,14
+SC-50064,2025-12-03,C1631,Edmonton,Basic,In-store,Clothing,Winter balaclava,1,29
+SC-50065,2025-12-03,C1161,Edmonton,Basic,Online,Clothing,Jersey,1,85
+SC-50066,2025-12-04,C1370,Edmonton,Non-member,In-store,Clothing,Rain jacket,1,149
+SC-50067,2025-12-04,C1346,Edmonton,Basic,In-store,Clothing,Jersey,1,85
+SC-50068,2025-12-04,C1135,Edmonton,Non-member,In-store,Accessories,Helmet,3,89
+SC-50069,2025-12-04,C1601,Edmonton,Basic,Online,Clothing,Rain jacket,1,149
+SC-50070,2025-12-04,C1045,Edmonton,Basic,In-store,Clothing,Jersey,3,85
+SC-50071,2025-12-04,C1648,Edmonton,Premium,In-store,Clothing,Cycling gloves,30,35
+SC-50072,2025-12-05,C1052,Edmonton,Basic,Online,Accessories,Helmet,3,89
+SC-50073,2025-12-05,C1537,Edmonton,Basic,Online,Accessories,Helmet,1,89
+SC-50074,2025-12-05,C1532,Spruce Grove,Basic,In-store,Accessories,Pannier bags,1,129
+SC-50075,2025-12-05,C1497,Edmonton,Basic,Online,Accessories,Light set,1,65
+SC-50076,2025-12-05,C1609,Edmonton,Non-member,Online,Clothing,Cycling gloves,3,35
+SC-50077,2025-12-06,C1368,Edmonton,Non-member,In-store,Clothing,Winter balaclava,1,29
+SC-50078,2025-12-06,C1079,Edmonton,Basic,Online,Accessories,Light set,1,65
+SC-50079,2025-12-06,C1086,St. Albert,Basic,In-store,Accessories,Water bottle,3,14
+SC-50080,2025-12-06,C1281,Sherwood Park,Non-member,In-store,Accessories,Light set,2,65
+SC-50081,2025-12-07,C1199,Edmonton,Basic,In-store,Accessories,Light set,1,65
+SC-50082,2025-12-07,C1455,Edmonton,Non-member,In-store,Accessories,Light set,2,65
+SC-50083,2025-12-07,C1432,Edmonton,Premium,Online,Accessories,Lock,3,59
+SC-50084,2025-12-07,C1272,Leduc,Non-member,Online,Clothing,Jersey,1,85
+SC-50085,2025-12-07,C1614,St. Albert,Basic,In-store,E-bikes,Commuter e-bike,2,2899
+SC-50086,2025-12-08,C1399,St. Albert,Basic,In-store,Parts,Inner tube,3,12
+SC-50087,2025-12-08,C1255,St. Albert,Basic,In-store,Accessories,Light set,1,65
+SC-50088,2025-12-08,C1011,Leduc,Basic,In-store,Clothing,Jersey,1,85
+SC-50089,2025-12-08,C1284,St. Albert,Premium,In-store,Accessories,Water bottle,3,14
+SC-50090,2025-12-08,C1515,Edmonton,Basic,In-store,Accessories,Lock,3,59
+SC-50091,2025-12-08,C1017,Edmonton,Premium,Online,Accessories,Lock,3,59
+SC-50092,2025-12-08,C1355,Edmonton,Non-member,In-store,Clothing,Cycling gloves,1,35
+SC-50093,2025-12-08,C1017,Edmonton,Premium,In-store,Parts,Tire,2,54
+SC-50094,2025-12-08,C1471,Edmonton,Premium,Online,Accessories,Water bottle,2,14
+SC-50095,2025-12-08,C1519,Edmonton,Non-member,In-store,Clothing,Cycling gloves,1,35
+SC-50096,2025-12-09,C1185,Edmonton,Non-member,In-store,Clothing,Winter balaclava,1,29
+SC-50097,2025-12-09,C1289,Edmonton,Basic,Online,Clothing,Jersey,3,85
+SC-50098,2025-12-09,C1275,Edmonton,Non-member,In-store,Parts,Warranty replacement,1,0
+SC-50099,2025-12-09,C1044,St. Albert,Non-member,Online,Clothing,Cycling gloves,2,35
+SC-50100,2025-12-09,C1601,Edmonton,Basic,Online,Parts,Brake pads,1,28
+SC-50101,2025-12-10,C1593,Leduc,Non-member,In-store,Accessories,Helmet,1,89
+SC-50102,2025-12-10,C1278,Edmonton,Premium,Online,Parts,Tire,1,54
+SC-50103,2025-12-10,C1484,Edmonton,Non-member,In-store,Accessories,Lock,3,59
+SC-50104,2025-12-10,C1058,Edmonton,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50105,2025-12-10,C1616,St. Albert,Basic,In-store,Parts,Tire,1,54
+SC-50106,2025-12-10,C1095,St. Albert,Non-member,In-store,Accessories,Helmet,1,89
+SC-50107,2025-12-10,C1033,Sherwood Park,Basic,In-store,Clothing,Jersey,2,85
+SC-50108,2025-12-10,C1314,Spruce Grove,Non-member,Online,Clothing,Cycling gloves,1,35
+SC-50109,2025-12-11,C1060,Sherwood Park,Basic,In-store,Accessories,Pannier bags,1,129
+SC-50110,2025-12-11,C1359,Edmonton,Non-member,In-store,Clothing,Cycling gloves,2,35
+SC-50111,2025-12-11,C1481,Edmonton,Basic,In-store,Bikes,Kids bike,1,329
+SC-50112,2025-12-11,C1356,St. Albert,Non-member,In-store,Clothing,Jersey,1,85
+SC-50113,2025-12-11,C1534,Leduc,Non-member,In-store,Clothing,Cycling gloves,1,35
+SC-50114,2025-12-11,C1055,Edmonton,Basic,In-store,Accessories,Lock,1,59
+SC-50115,2025-12-12,C1156,Edmonton,Basic,Online,Clothing,Rain jacket,1,149
+SC-50116,2025-12-12,C1442,Edmonton,Non-member,In-store,Accessories,Lock,2,59
+SC-50117,2025-12-12,C1418,Edmonton,Basic,Online,Clothing,Cycling gloves,1,35
+SC-50118,2025-12-12,C1041,St. Albert,Non-member,In-store,Accessories,Light set,4,65
+SC-50119,2025-12-13,C1026,Edmonton,Non-member,In-store,Accessories,Pannier bags,1,129
+SC-50120,2025-12-13,C1630,Edmonton,Non-member,Online,Accessories,Helmet,1,89
+SC-50121,2025-12-13,C1552,Edmonton,Non-member,In-store,Accessories,Helmet,1,89
+SC-50122,2025-12-13,C1432,Edmonton,Premium,In-store,Parts,Inner tube,6,12
+SC-50123,2025-12-13,C1620,Edmonton,Basic,Online,E-bikes,Commuter e-bike,1,2899
+SC-50124,2025-12-14,C1552,Edmonton,Non-member,In-store,Clothing,Jersey,1,85
+SC-50125,2025-12-14,C1374,Edmonton,Premium,In-store,Accessories,Light set,2,65
+SC-50126,2025-12-14,C1345,Sherwood Park,Non-member,Online,Accessories,Helmet,1,89
+SC-50127,2025-12-14,C1526,St. Albert,Premium,In-store,Accessories,Lock,1,59
+SC-50128,2025-12-14,C1093,Leduc,Basic,Online,Clothing,Cycling gloves,1,35
+SC-50129,2025-12-15,C1497,Edmonton,Basic,In-store,Clothing,Jersey,2,85
+SC-50130,2025-12-16,C1234,Edmonton,Non-member,Online,Clothing,Cycling gloves,1,35
+SC-50131,2025-12-16,C1640,Edmonton,Basic,Online,Clothing,Rain jacket,1,149
+SC-50132,2025-12-16,C1460,Edmonton,Non-member,In-store,Accessories,Water bottle,3,14
+SC-50133,2025-12-16,C1630,Edmonton,Non-member,In-store,Clothing,Cycling gloves,2,35
+SC-50134,2025-12-16,C1070,Edmonton,Non-member,Online,Accessories,Helmet,2,89
+SC-50135,2025-12-16,C1309,Edmonton,Premium,Online,Accessories,Helmet,1,89
+SC-50136,2025-12-17,C1264,Sherwood Park,Non-member,In-store,Clothing,Cycling gloves,2,35
+SC-50137,2025-12-17,C1249,Edmonton,Basic,Online,Accessories,Lock,4,59
+SC-50138,2025-12-17,C1078,Leduc,Basic,Online,Parts,Tire,1,54
+SC-50139,2025-12-18,C1292,Edmonton,Basic,Online,Accessories,Pannier bags,2,129
+SC-50140,2025-12-18,C1185,Edmonton,Non-member,In-store,Accessories,Helmet,2,89
+SC-50141,2025-12-18,C1590,Edmonton,Non-member,In-store,Accessories,Pannier bags,1,129
+SC-50142,2025-12-18,C1295,Sherwood Park,Non-member,In-store,Clothing,Rain jacket,2,149
+SC-50143,2025-12-18,C1586,Edmonton,Basic,Online,Accessories,Helmet,3,89
+SC-50144,2025-12-18,C1286,Spruce Grove,Basic,In-store,Parts,Chain,1,39
+SC-50145,2025-12-19,C1081,Edmonton,Premium,Online,Clothing,Rain jacket,3,149
+SC-50146,2025-12-19,C1401,Edmonton,Premium,In-store,Parts,Inner tube,4,12
+SC-50147,2025-12-19,C1349,Edmonton,Premium,In-store,Clothing,Winter balaclava,2,29
+SC-50148,2025-12-19,C1269,Spruce Grove,Non-member,In-store,Accessories,Helmet,4,89
+SC-50149,2025-12-19,C1062,Edmonton,Non-member,In-store,Clothing,Jersey,1,85
+SC-50150,2025-12-19,C1150,Edmonton,Basic,In-store,Parts,Inner tube,4,12
+SC-50151,2025-12-19,C1015,Edmonton,Premium,Online,Clothing,Cycling gloves,3,35
+SC-50152,2025-12-20,C1549,Edmonton,Basic,In-store,Accessories,Water bottle,3,14
+SC-50153,2025-12-20,C1635,Leduc,Premium,In-store,Accessories,Helmet,4,89
+SC-50154,2025-12-20,C1336,Edmonton,Non-member,Online,Accessories,Light set,2,65
+SC-50155,2025-12-20,C1537,Edmonton,Basic,In-store,Parts,Chain,3,39
+SC-50156,2025-12-20,C1147,Edmonton,Premium,In-store,Clothing,Cycling gloves,1,35
+SC-50157,2025-12-20,C1450,St. Albert,Basic,In-store,Clothing,Winter balaclava,2,29
+SC-50158,2025-12-21,C1298,Edmonton,Basic,Online,Clothing,Cycling gloves,3,35
+SC-50159,2025-12-21,C1249,Edmonton,Basic,In-store,Accessories,Water bottle,2,14
+SC-50160,2025-12-21,C1020,Edmonton,Premium,In-store,Clothing,Rain jacket,2,149
+SC-50161,2025-12-22,C1052,Edmonton,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50162,2025-12-22,C1110,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50163,2025-12-22,C1485,Edmonton,Non-member,Online,Accessories,Helmet,3,89
+SC-50164,2025-12-22,C1205,Sherwood Park,Basic,In-store,Accessories,Lock,1,59
+SC-50165,2025-12-23,C1557,Edmonton,Non-member,In-store,Clothing,Cycling gloves,1,35
+SC-50166,2025-12-23,C1386,Edmonton,Non-member,In-store,Parts,Chain,1,39
+SC-50167,2025-12-23,C1282,Edmonton,Non-member,In-store,Clothing,Cycling gloves,1,35
+SC-50168,2025-12-23,C1396,St. Albert,Basic,Online,Accessories,Helmet,1,89
+SC-50169,2025-12-24,C1205,Sherwood Park,Basic,In-store,Accessories,Light set,4,65
+SC-50170,2025-12-24,C1041,St. Albert,Non-member,Online,Clothing,Cycling gloves,1,35
+SC-50171,2025-12-25,C1241,Sherwood Park,Non-member,Online,Accessories,Helmet,2,89
+SC-50172,2025-12-25,C1091,Spruce Grove,Non-member,In-store,Accessories,Water bottle,3,14
+SC-50173,2025-12-25,C1606,Edmonton,Premium,In-store,Accessories,Helmet,3,89
+SC-50174,2025-12-25,C1077,Edmonton,Basic,Online,Accessories,Helmet,1,89
+SC-50175,2025-12-25,C1140,St. Albert,Premium,In-store,Clothing,Rain jacket,2,149
+SC-50176,2025-12-26,C1533,Edmonton,Premium,Online,Parts,Inner tube,1,12
+SC-50177,2025-12-26,C1050,Edmonton,Premium,Online,Parts,Inner tube,6,12
+SC-50178,2025-12-26,C1352,St. Albert,Premium,Online,Accessories,Helmet,3,89
+SC-50179,2025-12-26,C1293,Spruce Grove,Non-member,In-store,Clothing,Jersey,1,85
+SC-50180,2025-12-27,C1413,Spruce Grove,Basic,Online,Accessories,Helmet,3,89
+SC-50181,2025-12-27,C1178,Edmonton,Basic,Online,Parts,Brake pads,1,28
+SC-50182,2025-12-27,C1412,Spruce Grove,Non-member,Online,Accessories,Lock,3,59
+SC-50183,2025-12-27,C1139,Edmonton,Basic,In-store,Accessories,Light set,2,65
+SC-50184,2025-12-27,C1371,Edmonton,Basic,Online,Accessories,Pannier bags,5,129
+SC-50185,2025-12-27,C1418,Edmonton,Basic,In-store,Bikes,Road bike,1,1649
+SC-50186,2025-12-28,C1329,Spruce Grove,Premium,In-store,Parts,Brake pads,1,28
+SC-50187,2025-12-29,C1585,Edmonton,Basic,Online,Accessories,Lock,3,59
+SC-50188,2025-12-29,C1242,Leduc,Basic,In-store,Clothing,Winter balaclava,3,29
+SC-50189,2025-12-29,C1597,Sherwood Park,Non-member,In-store,Clothing,Winter balaclava,2,29
+SC-50190,2025-12-29,C1590,Edmonton,Non-member,In-store,Bikes,Kids bike,1,329
+SC-50191,2025-12-29,C1426,Edmonton,Premium,In-store,Parts,Tire,1,54
+SC-50192,2025-12-29,C1369,Leduc,Basic,In-store,Accessories,Helmet,1,89
+SC-50193,2025-12-30,C1401,Edmonton,Premium,Online,Accessories,Light set,1,65
+SC-50194,2025-12-30,C1544,Edmonton,Basic,In-store,Clothing,Winter balaclava,3,29
+SC-50195,2025-12-30,C1023,St. Albert,Non-member,Online,Accessories,Water bottle,2,14
+SC-50196,2025-12-31,C1488,Edmonton,Premium,In-store,Bikes,Kids bike,1,329
+SC-50197,2025-12-31,C1077,Edmonton,Basic,In-store,Clothing,Winter balaclava,1,29
+SC-50198,2025-12-31,C1260,Edmonton,Basic,Online,Accessories,Pannier bags,1,129
+SC-50199,2025-12-31,C1109,St. Albert,Non-member,Online,Accessories,Lock,1,59
+SC-50200,2025-12-31,C1119,Edmonton,Premium,Online,Clothing,Winter balaclava,3,29
+SC-50201,2025-12-31,C1553,Edmonton,Basic,Online,Accessories,Helmet,1,89
+SC-50202,2025-12-31,C1207,,Non-member,In-store,Clothing,Jersey,5,85
+SC-50203,2026-01-02,C1634,St. Albert,Non-member,Online,Clothing,Cycling gloves,1,35
+SC-50204,2026-01-03,C1476,Sherwood Park,Non-member,In-store,Parts,Tire,1,54
+SC-50205,2026-01-03,C1435,Edmonton,Non-member,In-store,Clothing,Cycling gloves,2,35
+SC-50206,2026-01-04,C1616,St. Albert,Basic,Online,Accessories,Light set,2,65
+SC-50207,2026-01-05,C1333,Edmonton,Basic,Online,Clothing,Winter balaclava,2,29
+SC-50208,2026-01-06,C1542,Sherwood Park,Basic,In-store,Accessories,Helmet,1,89
+SC-50209,2026-01-07,C1579,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50210,2026-01-08,C1512,Edmonton,Basic,Online,Clothing,Winter balaclava,1,29
+SC-50211,2026-01-09,C1338,Edmonton,Non-member,In-store,Accessories,Helmet,1,89
+SC-50212,2026-01-11,C1506,Edmonton,Basic,Online,Clothing,Rain jacket,1,149
+SC-50213,2026-01-12,C1137,St. Albert,Basic,Online,Clothing,Winter balaclava,2,29
+SC-50214,2026-01-12,C1615,Spruce Grove,Non-member,In-store,Parts,Tire,3,54
+SC-50215,2026-01-12,C1526,St. Albert,Premium,In-store,Clothing,Jersey,1,85
+SC-50216,2026-01-12,C1572,Leduc,Premium,Online,Accessories,Pannier bags,2,129
+SC-50217,2026-01-14,C1391,Sherwood Park,Non-member,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50218,2026-01-14,C1047,Edmonton,Premium,In-store,Clothing,Rain jacket,1,149
+SC-50219,2026-01-14,C1098,Spruce Grove,Basic,In-store,Clothing,Cycling gloves,2,35
+SC-50220,2026-01-15,C1143,Edmonton,Premium,In-store,Bikes,Road bike,1,1649
+SC-50221,2026-01-16,C1613,Sherwood Park,Basic,In-store,Parts,Warranty replacement,1,0
+SC-50222,2026-01-17,C1187,Sherwood Park,Non-member,In-store,Parts,Chain,1,39
+SC-50223,2026-01-17,C1487,Edmonton,Non-member,In-store,Parts,Chain,1,39
+SC-50224,2026-01-17,C1556,Spruce Grove,Basic,Online,Accessories,Light set,2,65
+SC-50225,2026-01-17,C1184,Leduc,Basic,Online,Parts,Brake pads,2,28
+SC-50226,2026-01-17,C1302,Edmonton,Premium,Online,Accessories,Pannier bags,1,129
+SC-50227,2026-01-17,C1132,St. Albert,Basic,Online,Clothing,Rain jacket,2,149
+SC-50228,2026-01-19,C1188,Edmonton,Basic,In-store,Clothing,Rain jacket,1,149
+SC-50229,2026-01-19,C1624,Edmonton,Non-member,In-store,Bikes,Road bike,1,1649
+SC-50230,2026-01-20,C1019,Edmonton,Premium,In-store,Clothing,Jersey,1,85
+SC-50231,2026-01-24,C1168,Edmonton,Premium,In-store,Parts,Inner tube,1,12
+SC-50232,2026-01-26,C1621,Sherwood Park,Premium,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50233,2026-01-27,C1283,Edmonton,Premium,Online,Accessories,Helmet,1,89
+SC-50234,2026-01-27,C1072,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50235,2026-01-28,C1611,Spruce Grove,Non-member,In-store,Clothing,Rain jacket,1,149
+SC-50236,2026-01-28,C1272,Leduc,Non-member,In-store,Accessories,Water bottle,1,14
+SC-50237,2026-01-29,C1236,Edmonton,Basic,Online,Clothing,Winter balaclava,1,29
+SC-50238,2026-01-30,C1219,Edmonton,Non-member,In-store,Accessories,Helmet,1,89
+SC-50239,2026-01-31,C1372,Edmonton,Non-member,In-store,Accessories,Light set,1,65
+SC-50240,2026-02-01,C1067,Edmonton,Non-member,Online,Parts,Tire,2,54
+SC-50241,2026-02-03,C1365,Leduc,Basic,In-store,Accessories,Light set,2,65
+SC-50242,2026-02-03,C1258,Leduc,Basic,In-store,Accessories,Lock,1,59
+SC-50243,2026-02-03,C1055,Edmonton,Basic,In-store,Parts,Inner tube,1,12
+SC-50244,2026-02-05,C1187,Sherwood Park,Non-member,In-store,Accessories,Helmet,1,89
+SC-50245,2026-02-06,C1326,Sherwood Park,Basic,Online,Accessories,Helmet,1,89
+SC-50246,2026-02-07,C1239,Edmonton,Non-member,In-store,Parts,Inner tube,2,12
+SC-50247,2026-02-07,C1251,,Non-member,In-store,Bikes,Commuter bike,1,849
+SC-50248,2026-02-07,C1180,Edmonton,Premium,In-store,Parts,Brake pads,2,28
+SC-50249,2026-02-07,C1046,Edmonton,Basic,In-store,Accessories,Helmet,3,89
+SC-50250,2026-02-09,C1516,Leduc,Non-member,In-store,Parts,Tire,2,54
+SC-50251,2026-02-09,C1178,Edmonton,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50252,2026-02-13,C1530,Leduc,Non-member,Online,Accessories,Light set,1,65
+SC-50253,2026-02-13,C1564,Sherwood Park,Basic,In-store,Parts,Tire,1,54
+SC-50254,2026-02-14,C1557,Edmonton,Non-member,In-store,Parts,Brake pads,1,28
+SC-50255,2026-02-15,C1133,Sherwood Park,Non-member,Online,Parts,Brake pads,1,28
+SC-50256,2026-02-15,C1014,Sherwood Park,Non-member,Online,Accessories,Water bottle,2,14
+SC-50257,2026-02-17,C1408,St. Albert,Non-member,Online,Accessories,Helmet,2,89
+SC-50258,2026-02-17,C1130,Edmonton,Basic,Online,Clothing,Rain jacket,1,149
+SC-50259,2026-02-18,C1527,Leduc,Non-member,In-store,Accessories,Water bottle,1,14
+SC-50260,2026-02-20,C1173,Edmonton,Premium,Online,Bikes,Kids bike,1,329
+SC-50261,2026-02-21,C1509,Edmonton,Non-member,Online,Accessories,Lock,1,59
+SC-50262,2026-02-22,C1113,St. Albert,Basic,In-store,Accessories,Light set,2,65
+SC-50263,2026-02-23,C1231,Edmonton,Basic,In-store,Clothing,Jersey,1,85
+SC-50264,2026-02-23,C1052,Edmonton,Basic,In-store,Clothing,Cycling gloves,1,35
+SC-50265,2026-02-24,C1036,Leduc,Non-member,Online,Accessories,Water bottle,1,14
+SC-50266,2026-02-26,C1148,Edmonton,Premium,In-store,Parts,Tire,1,54
+SC-50267,2026-02-27,C1159,Edmonton,Non-member,Online,Bikes,Kids bike,1,329
+SC-50268,2026-02-28,C1387,Edmonton,Basic,Online,Clothing,Winter balaclava,1,29
+SC-50269,2026-03-01,C1183,Spruce Grove,Non-member,In-store,Parts,Tire,1,54
+SC-50270,2026-03-01,C1062,Edmonton,Non-member,In-store,Accessories,Pannier bags,2,129
+SC-50271,2026-03-02,C1516,Leduc,Non-member,Online,Clothing,Jersey,3,85
+SC-50272,2026-03-03,C1619,Edmonton,Basic,In-store,Clothing,Jersey,1,85
+SC-50273,2026-03-04,C1149,Edmonton,Non-member,Online,Parts,Inner tube,6,12
+SC-50274,2026-03-04,C1015,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50275,2026-03-04,C1200,Edmonton,Basic,In-store,Clothing,Rain jacket,2,149
+SC-50276,2026-03-04,C1510,Sherwood Park,Basic,In-store,Clothing,Cycling gloves,1,35
+SC-50277,2026-03-04,C1156,Edmonton,Basic,Online,Bikes,Commuter bike,1,849
+SC-50278,2026-03-04,C1075,Spruce Grove,Non-member,Online,Parts,Tire,1,54
+SC-50279,2026-03-05,C1029,Edmonton,Premium,In-store,Parts,Inner tube,2,12
+SC-50280,2026-03-05,C1178,Edmonton,Basic,In-store,Parts,Tire,1,54
+SC-50281,2026-03-06,C1351,Edmonton,Non-member,In-store,Bikes,Road bike,1,1649
+SC-50282,2026-03-07,C1542,Sherwood Park,Basic,Online,Accessories,Helmet,1,89
+SC-50283,2026-03-08,C1526,St. Albert,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50284,2026-03-08,C1123,Edmonton,Basic,In-store,Bikes,Road bike,1,1649
+SC-50285,2026-03-09,C1533,Edmonton,Premium,Online,E-bikes,Commuter e-bike,1,2899
+SC-50286,2026-03-09,C1291,Edmonton,Non-member,Online,Clothing,Jersey,1,85
+SC-50287,2026-03-10,C1148,Edmonton,Premium,In-store,Accessories,Light set,1,65
+SC-50288,2026-03-10,C1093,Leduc,Basic,In-store,Clothing,Cycling gloves,2,35
+SC-50289,2026-03-11,C1270,Edmonton,Premium,Online,Parts,Tire,1,54
+SC-50290,2026-03-11,C1576,Edmonton,Non-member,Online,Parts,Brake pads,3,28
+SC-50291,2026-03-13,C1304,Edmonton,Non-member,Online,Clothing,Winter balaclava,1,29
+SC-50292,2026-03-13,C1087,Edmonton,Premium,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50293,2026-03-14,C1512,Edmonton,Basic,In-store,Parts,Inner tube,4,12
+SC-50294,2026-03-14,C1478,Spruce Grove,Non-member,In-store,Bikes,Commuter bike,1,849
+SC-50295,2026-03-14,C1442,Edmonton,Non-member,In-store,Bikes,Commuter bike,1,849
+SC-50296,2026-03-15,C1169,Edmonton,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-50297,2026-03-15,C1623,Sherwood Park,Non-member,In-store,Parts,Chain,1,39
+SC-50298,2026-03-16,C1272,Leduc,Non-member,In-store,Accessories,Helmet,1,89
+SC-50299,2026-03-16,C1044,St. Albert,Non-member,Online,Parts,Tire,1,54
+SC-50300,2026-03-17,C1509,Edmonton,Non-member,In-store,Accessories,Light set,1,65
+SC-50301,2026-03-18,C1156,Edmonton,Basic,Online,Bikes,Mountain bike,2,1299
+SC-50302,2026-03-20,C1505,Edmonton,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50303,2026-03-20,C1074,Leduc,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50304,2026-03-21,C1119,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50305,2026-03-21,C1324,St. Albert,Non-member,In-store,Parts,Inner tube,4,12
+SC-50306,2026-03-21,C1068,Edmonton,Basic,In-store,Accessories,Pannier bags,2,129
+SC-50307,2026-03-22,C1189,St. Albert,Basic,Online,Accessories,Helmet,1,89
+SC-50308,2026-03-22,C1435,Edmonton,Non-member,In-store,Clothing,Cycling gloves,1,35
+SC-50309,2026-03-22,C1451,Leduc,Premium,In-store,Parts,Tire,1,54
+SC-50310,2026-03-23,C1548,Edmonton,Basic,Online,Parts,Inner tube,2,12
+SC-50311,2026-03-23,C1183,Spruce Grove,Non-member,In-store,Accessories,Helmet,1,89
+SC-50312,2026-03-23,C1608,Edmonton,Non-member,In-store,Clothing,Winter balaclava,2,29
+SC-50313,2026-03-23,C1099,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50314,2026-03-25,C1484,Edmonton,Non-member,Online,Accessories,Lock,1,59
+SC-50315,2026-03-25,C1369,Leduc,Basic,In-store,Parts,Inner tube,1,12
+SC-50316,2026-03-25,C1110,Edmonton,Premium,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50317,2026-03-25,C1294,Edmonton,Premium,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50318,2026-03-26,C1594,Edmonton,Basic,In-store,Parts,Inner tube,1,12
+SC-50319,2026-03-26,C1370,Edmonton,Non-member,In-store,Accessories,Light set,1,65
+SC-50320,2026-03-27,C1418,Edmonton,Basic,In-store,Bikes,Kids bike,1,329
+SC-50321,2026-03-27,C1160,Sherwood Park,Non-member,In-store,Parts,Inner tube,3,12
+SC-50322,2026-03-27,C1528,Leduc,Premium,In-store,Bikes,Kids bike,1,329
+SC-50323,2026-03-28,C1213,Edmonton,Non-member,In-store,Bikes,Kids bike,1,329
+SC-50324,2026-03-28,C1374,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50325,2026-03-28,C1476,Sherwood Park,Non-member,In-store,Accessories,Pannier bags,1,129
+SC-50326,2026-03-29,C1512,Edmonton,Basic,In-store,Parts,Tire,1,54
+SC-50327,2026-03-29,C1284,St. Albert,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50328,2026-03-29,C1065,Spruce Grove,Non-member,Online,Accessories,Lock,2,59
+SC-50329,2026-03-29,C1421,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50330,2026-03-29,C1142,Edmonton,Basic,Online,Parts,Tire,1,54
+SC-50331,2026-03-30,C1173,Edmonton,Premium,Online,Parts,Brake pads,1,28
+SC-50332,2026-03-30,C1084,Edmonton,Premium,In-store,Bikes,Kids bike,1,329
+SC-50333,2026-03-30,C1649,Edmonton,Non-member,In-store,E-bikes,Cargo e-bike,4,4999
+SC-50334,2026-03-31,C1381,Edmonton,Non-member,In-store,Parts,Brake pads,3,28
+SC-50335,2026-03-31,C1188,Edmonton,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50336,2026-03-31,C1020,Edmonton,Premium,In-store,Bikes,Road bike,1,1649
+SC-50337,2026-04-01,C1432,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50338,2026-04-01,C1167,Leduc,Basic,Online,Parts,Inner tube,2,12
+SC-50339,2026-04-01,C1427,Edmonton,Non-member,Online,Accessories,Pannier bags,1,129
+SC-50340,2026-04-01,C1589,Edmonton,Basic,In-store,Clothing,Cycling gloves,1,35
+SC-50341,2026-04-01,C1128,Sherwood Park,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50342,2026-04-01,C1240,Edmonton,Non-member,Online,Parts,Brake pads,1,28
+SC-50343,2026-04-02,C1431,St. Albert,Non-member,In-store,Parts,Tire,1,54
+SC-50344,2026-04-02,C1178,Edmonton,Basic,Online,Parts,Warranty replacement,1,0
+SC-50345,2026-04-02,C1065,Spruce Grove,Non-member,Online,Accessories,Lock,1,59
+SC-50346,2026-04-02,C1616,St. Albert,Basic,In-store,Accessories,Lock,1,59
+SC-50347,2026-04-02,C1095,St Albert,Non-member,In-store,Accessories,Light set,1,65
+SC-50348,2026-04-03,C1250,Edmonton,Basic,Online,Accessories,Helmet,2,89
+SC-50349,2026-04-03,C1494,St. Albert,Basic,In-store,Parts,Tire,2,54
+SC-50350,2026-04-03,C1284,St. Albert,Premium,In-store,Clothing,Cycling gloves,1,35
+SC-50351,2026-04-03,C1262,Edmonton,Premium,In-store,Bikes,Kids bike,1,329
+SC-50352,2026-04-03,C1285,Spruce Grove,Non-member,In-store,Parts,Brake pads,1,28
+SC-50353,2026-04-03,C1123,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50354,2026-04-04,C1255,St. Albert,Basic,Online,Accessories,Helmet,1,89
+SC-50355,2026-04-04,C1200,Edmonton,Basic,In-store,Parts,Inner tube,1,12
+SC-50356,2026-04-04,C1329,Spruce Grove,Premium,Online,E-bikes,Commuter e-bike,1,2899
+SC-50357,2026-04-05,C1474,Spruce Grove,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50358,2026-04-05,C1066,Leduc,Non-member,In-store,Bikes,Commuter bike,1,849
+SC-50359,2026-04-06,C1083,Edmonton,Premium,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50360,2026-04-06,C1039,Spruce Grove,Non-member,In-store,Parts,Inner tube,1,12
+SC-50361,2026-04-06,C1512,Edmonton,Basic,In-store,Parts,Chain,1,39
+SC-50362,2026-04-06,C1547,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50363,2026-04-06,C1099,Edmonton,Premium,In-store,Accessories,Lock,1,59
+SC-50364,2026-04-06,C1561,Spruce Grove,Non-member,In-store,Parts,Chain,1,39
+SC-50365,2026-04-07,C1405,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50366,2026-04-07,C1498,Edmonton,Basic,In-store,Bikes,Kids bike,1,329
+SC-50367,2026-04-07,C1349,Edmonton,Premium,In-store,Clothing,Winter balaclava,1,29
+SC-50368,2026-04-07,C1413,Spruce Grove,Basic,In-store,Accessories,Water bottle,1,14
+SC-50369,2026-04-07,C1262,Edmonton,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-50370,2026-04-08,C1074,Leduc,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50371,2026-04-08,C1143,Edmonton,Premium,In-store,Accessories,Lock,2,59
+SC-50372,2026-04-08,C1244,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50373,2026-04-08,C1105,Sherwood Park,Basic,Online,Clothing,Rain jacket,1,149
+SC-50374,2026-04-09,C1353,Edmonton,Basic,In-store,Bikes,Road bike,1,1649
+SC-50375,2026-04-09,C1225,Edmonton,Basic,In-store,Parts,Chain,1,39
+SC-50376,2026-04-09,C1183,Spruce Grove,Non-member,In-store,Accessories,Lock,1,59
+SC-50377,2026-04-10,C1083,Edmonton,Premium,Online,Clothing,Rain jacket,1,149
+SC-50378,2026-04-10,C1211,Edmonton,Basic,Online,Accessories,Helmet,2,89
+SC-50379,2026-04-10,C1215,Edmonton,Non-member,In-store,Parts,Inner tube,1,12
+SC-50380,2026-04-10,C1349,Edmonton,Premium,Online,Parts,Inner tube,1,12
+SC-50381,2026-04-10,C1617,Edmonton,Basic,Online,Parts,Tire,1,54
+SC-50382,2026-04-10,C1079,Edmonton,Basic,In-store,Parts,Tire,1,54
+SC-50383,2026-04-11,C1456,Edmonton,Non-member,In-store,Parts,Tire,1,54
+SC-50384,2026-04-11,C1014,Sherwood Park,Non-member,Online,Parts,Brake pads,1,28
+SC-50385,2026-04-11,C1018,Edmonton,Premium,In-store,Accessories,Helmet,3,89
+SC-50386,2026-04-11,C1553,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50387,2026-04-11,C1110,edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50388,2026-04-11,C1394,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50389,2026-04-12,C1078,Leduc,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50390,2026-04-12,C1325,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50391,2026-04-12,C1090,Spruce Grove,Non-member,In-store,Parts,Inner tube,2,12
+SC-50392,2026-04-13,C1412,Spruce Grove,Non-member,Online,Accessories,Water bottle,1,14
+SC-50393,2026-04-13,C1587,Edmonton,Basic,In-store,Parts,Tire,2,54
+SC-50394,2026-04-13,C1179,Sherwood Park,Non-member,In-store,Parts,Tire,1,54
+SC-50395,2026-04-13,C1442,Edmonton,Non-member,Online,Parts,Inner tube,4,12
+SC-50396,2026-04-13,C1442,Edmonton,Non-member,In-store,Parts,Inner tube,6,12
+SC-50397,2026-04-13,C1428,Edmonton,Non-member,In-store,Parts,Inner tube,1,12
+SC-50398,2026-04-13,C1596,Edmonton,Non-member,Online,Accessories,Pannier bags,1,129
+SC-50399,2026-04-14,C1199,Edmonton,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50400,2026-04-14,C1101,Sherwood Park,Basic,Online,Clothing,Rain jacket,1,149
+SC-50401,2026-04-14,C1501,Spruce Grove,Non-member,In-store,Clothing,Jersey,2,85
+SC-50402,2026-04-14,C1347,Edmonton,Non-member,In-store,Clothing,Winter balaclava,2,29
+SC-50403,2026-04-14,C1141,St. Albert,Basic,In-store,Parts,Chain,1,39
+SC-50404,2026-04-14,C1631,Edmonton,Basic,Online,Bikes,Road bike,1,1649
+SC-50405,2026-04-14,C1641,edmonton,Basic,In-store,Accessories,Water bottle,40,14
+SC-50406,2026-04-15,C1610,St. Albert,Basic,In-store,Bikes,Kids bike,1,329
+SC-50407,2026-04-15,C1572,Leduc,Premium,In-store,Parts,Brake pads,2,28
+SC-50408,2026-04-16,C1163,Edmonton,Basic,In-store,Accessories,Lock,1,59
+SC-50409,2026-04-16,C1303,Edmonton,Basic,Online,Parts,Chain,1,39
+SC-50410,2026-04-16,C1190,Edmonton,Non-member,Online,Accessories,Helmet,1,89
+SC-50411,2026-04-16,C1447,Sherwood Park,Non-member,In-store,Parts,Tire,1,54
+SC-50412,2026-04-16,C1219,Edmonton,Non-member,In-store,Accessories,Helmet,1,89
+SC-50413,2026-04-16,C1250,Edmonton,Basic,In-store,Clothing,Winter balaclava,1,29
+SC-50414,2026-04-16,C1088,St. Albert,Basic,In-store,Clothing,Rain jacket,2,149
+SC-50415,2026-04-17,C1563,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50416,2026-04-17,C1605,Sherwood Park,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-50417,2026-04-17,C1273,Leduc,Basic,In-store,Accessories,Light set,1,65
+SC-50418,2026-04-18,C1326,Sherwood Park,Basic,In-store,Parts,Inner tube,1,12
+SC-50419,2026-04-18,C1192,Edmonton,Non-member,Online,Parts,Chain,2,39
+SC-50420,2026-04-18,C1349,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50421,2026-04-18,C1402,Edmonton,Basic,In-store,Parts,Brake pads,1,28
+SC-50422,2026-04-18,C1124,Edmonton,Basic,In-store,Parts,Inner tube,1,12
+SC-50423,2026-04-18,C1030,Edmonton,Non-member,In-store,Parts,Tire,1,54
+SC-50424,2026-04-18,C1283,Edmonton,Premium,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50425,2026-04-18,C1321,Sherwood Park,Basic,Online,Parts,Brake pads,2,28
+SC-50426,2026-04-19,C1064,,Non-member,In-store,Parts,Inner tube,4,12
+SC-50427,2026-04-19,C1578,Edmonton,Non-member,In-store,Accessories,Light set,2,65
+SC-50428,2026-04-19,C1376,Edmonton,Basic,In-store,Accessories,Light set,1,65
+SC-50429,2026-04-19,C1363,Sherwood Park,Basic,In-store,Accessories,Pannier bags,1,129
+SC-50430,2026-04-19,C1212,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50431,2026-04-19,C1148,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50432,2026-04-20,C1618,Sherwood Park,Non-member,Online,Accessories,Lock,1,59
+SC-50433,2026-04-20,C1582,Edmonton,Premium,In-store,Accessories,Helmet,1,89
+SC-50434,2026-04-20,C1050,Edmonton,Premium,Online,E-bikes,Cargo e-bike,1,4999
+SC-50435,2026-04-21,C1255,St Albert,Basic,In-store,Parts,Inner tube,2,12
+SC-50436,2026-04-21,C1559,Edmonton,Non-member,In-store,Parts,Chain,3,39
+SC-50437,2026-04-21,C1565,Edmonton,Non-member,Online,Clothing,Cycling gloves,2,35
+SC-50438,2026-04-21,C1032,Spruce Grove,Basic,In-store,Accessories,Water bottle,2,14
+SC-50439,2026-04-21,C1295,Sherwood Park,Non-member,In-store,Accessories,Water bottle,1,14
+SC-50440,2026-04-21,C1028,Edmonton,Premium,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50441,2026-04-21,C1610,St. Albert,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50442,2026-04-21,C1346,Edmonton,Basic,Online,Accessories,Water bottle,4,14
+SC-50443,2026-04-22,C1614,St. Albert,Basic,In-store,Parts,Chain,2,39
+SC-50444,2026-04-22,C1068,Edmonton,Basic,In-store,Clothing,Rain jacket,1,149
+SC-50445,2026-04-22,C1046,Edmonton,Basic,Online,Parts,Chain,2,39
+SC-50446,2026-04-22,C1100,Edmonton,Non-member,In-store,Accessories,Light set,1,65
+SC-50447,2026-04-22,C1247,Edmonton,Non-member,In-store,Bikes,Mountain bike,1,1299
+SC-50448,2026-04-22,C1258,Leduc,Basic,In-store,Clothing,Winter balaclava,1,29
+SC-50449,2026-04-22,C1167,Leduc,Basic,Online,Bikes,Commuter bike,1,849
+SC-50450,2026-04-22,C1011,Leduc,Basic,Online,Clothing,Cycling gloves,2,35
+SC-50451,2026-04-23,C1382,Edmonton,Premium,In-store,Accessories,Helmet,1,89
+SC-50452,2026-04-23,C1028,Edmonton,Premium,Online,Parts,Warranty replacement,1,0
+SC-50453,2026-04-23,C1514,Edmonton,Premium,Online,Parts,Chain,2,39
+SC-50454,2026-04-24,C1029,Edmonton,Premium,Online,Parts,Warranty replacement,1,0
+SC-50455,2026-04-24,C1262,Edmonton,Premium,In-store,Bikes,Road bike,1,1649
+SC-50456,2026-04-24,C1267,,Non-member,In-store,Bikes,Kids bike,1,329
+SC-50457,2026-04-24,C1201,Sherwood Park,Non-member,In-store,Bikes,Mountain bike,1,1299
+SC-50458,2026-04-25,C1019,Edmonton,Premium,In-store,Accessories,Light set,1,65
+SC-50459,2026-04-26,C1074,Leduc,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50460,2026-04-26,C1224,Edmonton,Basic,Online,Accessories,Water bottle,2,14
+SC-50461,2026-04-26,C1587,Edmonton,Basic,In-store,Accessories,Lock,1,59
+SC-50462,2026-04-27,C1354,Edmonton,Basic,Online,Parts,Chain,1,39
+SC-50463,2026-04-27,C1474,Spruce Grove,Basic,In-store,Bikes,Road bike,1,1649
+SC-50464,2026-04-27,C1107,St. Albert,Basic,Online,Accessories,Lock,1,59
+SC-50465,2026-04-27,C1631,Edmonton,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50466,2026-04-28,C1130,Edmonton,Basic,In-store,Parts,Inner tube,2,12
+SC-50467,2026-04-28,C1214,Edmonton,Non-member,In-store,Accessories,Helmet,1,89
+SC-50468,2026-04-28,C1139,Edmonton,Basic,In-store,Parts,Brake pads,1,28
+SC-50469,2026-04-28,C1142,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50470,2026-04-28,C1286,Spruce Grove,Basic,Online,Clothing,Cycling gloves,1,35
+SC-50471,2026-04-29,C1278,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50472,2026-04-29,C1012,Spruce Grove,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50473,2026-04-29,C1371,Edmonton,Basic,In-store,Accessories,Helmet,1,89
+SC-50474,2026-04-29,C1303,Edmonton,Basic,In-store,Accessories,Helmet,2,89
+SC-50475,2026-04-29,C1596,Edmonton,Non-member,In-store,Clothing,Jersey,3,85
+SC-50476,2026-04-29,C1371,Edmonton,Basic,Online,Clothing,Rain jacket,2,149
+SC-50477,2026-04-30,C1184,Leduc,Basic,In-store,Parts,Inner tube,2,12
+SC-50478,2026-04-30,C1413,Spruce Grove,Basic,In-store,Bikes,Kids bike,1,329
+SC-50479,2026-04-30,C1228,Leduc,Non-member,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50480,2026-04-30,C1046,Edmonton,Basic,In-store,Accessories,Helmet,1,89
+SC-50481,2026-04-30,C1339,Leduc,Non-member,In-store,Parts,Tire,2,54
+SC-50482,2026-04-30,C1605,Sherwood Park,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50483,2026-04-30,C1451,Leduc,Premium,Online,Accessories,Pannier bags,1,129
+SC-50484,2026-04-30,C1547,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50485,2026-05-01,C1602,Sherwood Park,Basic,In-store,Parts,Brake pads,1,28
+SC-50486,2026-05-01,C1499,Edmonton,Basic,In-store,Parts,Inner tube,2,12
+SC-50487,2026-05-01,C1497,Edmonton,Basic,In-store,Bikes,Road bike,1,1649
+SC-50488,2026-05-01,C1302,Edmonton,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-50489,2026-05-02,C1364,Sherwood Park,Non-member,In-store,Accessories,Helmet,1,89
+SC-50490,2026-05-02,C1198,Edmonton,Non-member,In-store,Bikes,Road bike,1,1649
+SC-50491,2026-05-02,C1642,Edmonton,Premium,In-store,Parts,Inner tube,30,12
+SC-50492,2026-05-03,C1098,Spruce Grove,Basic,Online,Parts,Chain,2,39
+SC-50493,2026-05-03,C1496,Sherwood Park,Non-member,In-store,Accessories,Lock,1,59
+SC-50494,2026-05-03,C1055,Edmonton,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50495,2026-05-03,C1357,Edmonton,Basic,In-store,Parts,Chain,2,39
+SC-50496,2026-05-03,C1636,Spruce Grove,Basic,Online,Accessories,Water bottle,4,14
+SC-50497,2026-05-03,C1503,Spruce Grove,Basic,In-store,Accessories,Light set,1,65
+SC-50498,2026-05-03,C1067,Edmonton,Non-member,Online,Accessories,Lock,2,59
+SC-50499,2026-05-04,C1352,St. Albert,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50500,2026-05-04,C1279,Edmonton,Basic,In-store,Accessories,Lock,1,59
+SC-50501,2026-05-04,C1234,Edmonton,Non-member,In-store,Clothing,Winter balaclava,3,29
+SC-50502,2026-05-04,C1273,Leduc,Basic,In-store,Parts,Inner tube,1,12
+SC-50503,2026-05-04,C1481,Edmonton,Basic,In-store,Accessories,Water bottle,2,14
+SC-50504,2026-05-05,C1125,Edmonton,Premium,In-store,Parts,Tire,1,54
+SC-50505,2026-05-05,C1582,Edmonton,Premium,In-store,Clothing,Jersey,2,85
+SC-50506,2026-05-06,C1169,Edmonton,Premium,Online,E-bikes,Cargo e-bike,1,4999
+SC-50507,2026-05-06,C1433,Edmonton,Non-member,In-store,Bikes,Road bike,1,1649
+SC-50508,2026-05-06,C1615,Spruce Grove,Non-member,In-store,Parts,Tire,1,54
+SC-50509,2026-05-06,C1130,Edmonton,Basic,In-store,Clothing,Jersey,3,85
+SC-50510,2026-05-07,C1020,Edmonton,Premium,Online,Parts,Warranty replacement,1,0
+SC-50511,2026-05-07,C1072,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50512,2026-05-07,C1057,Edmonton,Basic,Online,Clothing,Cycling gloves,2,35
+SC-50513,2026-05-07,C1572,Leduc,Premium,Online,Clothing,Rain jacket,1,149
+SC-50514,2026-05-07,C1113,St. Albert,Basic,In-store,Accessories,Water bottle,1,14
+SC-50515,2026-05-07,C1188,Edmonton,Basic,Online,Accessories,Light set,1,65
+SC-50516,2026-05-07,C1026,Edmonton,Non-member,Online,Parts,Tire,2,54
+SC-50517,2026-05-08,C1581,St. Albert,Non-member,In-store,Parts,Warranty replacement,1,0
+SC-50518,2026-05-08,C1027,Edmonton,Non-member,In-store,Bikes,Commuter bike,1,849
+SC-50519,2026-05-08,C1524,Edmonton,Non-member,In-store,Accessories,Pannier bags,1,129
+SC-50520,2026-05-09,C1540,Edmonton,Non-member,In-store,Parts,Warranty replacement,1,0
+SC-50521,2026-05-09,C1217,Edmonton,Premium,In-store,Accessories,Light set,1,65
+SC-50522,2026-05-09,C1083,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50523,2026-05-10,C1478,Spruce Grove,Non-member,In-store,Accessories,Light set,1,65
+SC-50524,2026-05-10,C1240,Edmonton,Non-member,In-store,Parts,Inner tube,2,12
+SC-50525,2026-05-10,C1302,Edmonton,Premium,Online,Accessories,Light set,1,65
+SC-50526,2026-05-10,C1085,Edmonton,Basic,In-store,Parts,Tire,1,54
+SC-50527,2026-05-10,C1078,Leduc,Basic,Online,Accessories,Pannier bags,1,129
+SC-50528,2026-05-11,C1475,Edmonton,Basic,Online,Accessories,Helmet,1,89
+SC-50529,2026-05-11,C1629,Leduc,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50530,2026-05-11,C1077,Edmonton,Basic,In-store,Accessories,Pannier bags,1,129
+SC-50531,2026-05-11,C1627,Edmonton,Basic,In-store,Parts,Brake pads,3,28
+SC-50532,2026-05-12,C1575,Edmonton,Non-member,In-store,Accessories,Lock,1,59
+SC-50533,2026-05-12,C1492,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50534,2026-05-12,C1074,Leduc,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50535,2026-05-12,C1585,Edmonton,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50536,2026-05-12,C1244,Edmonton,Basic,Online,Parts,Tire,1,54
+SC-50537,2026-05-12,C1042,Edmonton,Non-member,In-store,Parts,Inner tube,4,12
+SC-50538,2026-05-12,C1273,Leduc,Basic,In-store,Parts,Inner tube,2,12
+SC-50539,2026-05-12,C1420,Edmonton,Non-member,In-store,Parts,Brake pads,1,28
+SC-50540,2026-05-12,C1595,Edmonton,Non-member,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50541,2026-05-12,C1501,Spruce Grove,Non-member,In-store,Bikes,Road bike,2,1649
+SC-50542,2026-05-13,C1026,Edmonton,Non-member,In-store,Parts,Tire,2,54
+SC-50543,2026-05-13,C1405,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50544,2026-05-14,C1032,Spruce Grove,Basic,Online,Bikes,Road bike,1,1649
+SC-50545,2026-05-14,C1081,Edmonton,Premium,In-store,Bikes,Kids bike,1,329
+SC-50546,2026-05-14,C1367,Spruce Grove,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50547,2026-05-15,C1514,Edmonton,Premium,Online,Accessories,Helmet,1,89
+SC-50548,2026-05-15,C1248,Edmonton,Non-member,Online,Parts,Brake pads,1,28
+SC-50549,2026-05-15,C1335,St. Albert,Non-member,In-store,Clothing,Winter balaclava,1,29
+SC-50550,2026-05-15,C1635,Leduc,Premium,In-store,Accessories,Light set,1,65
+SC-50551,2026-05-15,C1503,Spruce Grove,Basic,Online,Accessories,Helmet,2,89
+SC-50552,2026-05-15,C1403,Edmonton,Basic,In-store,Accessories,Lock,1,59
+SC-50553,2026-05-16,C1157,Sherwood Park,Non-member,In-store,Parts,Inner tube,6,12
+SC-50554,2026-05-16,C1389,edmonton,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-50555,2026-05-16,C1283,Edmonton,Premium,In-store,Parts,Tire,1,54
+SC-50556,2026-05-16,C1137,St. Albert,Basic,In-store,Bikes,Commuter bike,500,849
+SC-50557,2026-05-17,C1121,St. Albert,Basic,In-store,Parts,Inner tube,1,12
+SC-50558,2026-05-17,C1404,Edmonton,Basic,In-store,Parts,Tire,3,54
+SC-50559,2026-05-17,C1547,Edmonton,Premium,In-store,Bikes,Road bike,1,1649
+SC-50560,2026-05-18,C1606,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50561,2026-05-18,C1567,Leduc,Non-member,In-store,Accessories,Light set,1,65
+SC-50562,2026-05-18,C1514,Edmonton,Premium,In-store,Parts,Chain,2,39
+SC-50563,2026-05-18,C1175,Leduc,Non-member,Online,Accessories,Pannier bags,1,129
+SC-50564,2026-05-18,C1312,Sherwood Park,Non-member,Online,Clothing,Winter balaclava,2,29
+SC-50565,2026-05-18,C1229,Edmonton,Non-member,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50566,2026-05-19,C1147,Edmonton,Premium,Online,Accessories,Helmet,1,89
+SC-50567,2026-05-19,C1153,Edmonton,Non-member,In-store,Clothing,Rain jacket,1,149
+SC-50568,2026-05-20,C1017,Edmonton,Premium,Online,Parts,Tire,1,54
+SC-50569,2026-05-20,C1290,Sherwood Park,Non-member,In-store,Parts,Tire,2,54
+SC-50570,2026-05-20,C1113,St. Albert,Basic,In-store,Parts,Tire,1,54
+SC-50571,2026-05-20,C1417,Sherwood Park,Basic,Online,E-bikes,Commuter e-bike,1,2899
+SC-50572,2026-05-20,C1506,Edmonton,Basic,In-store,Parts,Chain,1,39
+SC-50573,2026-05-20,C1063,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50574,2026-05-21,C1494,St. Albert,Basic,Online,Clothing,Cycling gloves,2,35
+SC-50575,2026-05-21,C1235,Edmonton,Basic,Online,Parts,Brake pads,1,28
+SC-50576,2026-05-21,C1556,Spruce Grove,Basic,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50577,2026-05-21,C1029,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50578,2026-05-21,C1622,Sherwood Park,Basic,In-store,Accessories,Water bottle,1,14
+SC-50579,2026-05-21,C1161,Edmonton,Basic,Online,Accessories,Light set,2,65
+SC-50580,2026-05-21,C1093,Leduc,Basic,In-store,Parts,Chain,2,39
+SC-50581,2026-05-21,C1643,St. Albert,Non-member,In-store,Accessories,Helmet,24,89
+SC-50582,2026-05-22,C1087,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50583,2026-05-22,C1046,Edmonton,Basic,In-store,Parts,Brake pads,1,28
+SC-50584,2026-05-22,C1255,St. Albert,Basic,In-store,Bikes,Road bike,1,1649
+SC-50585,2026-05-22,C1456,Edmonton,Non-member,In-store,Bikes,Commuter bike,1,849
+SC-50586,2026-05-22,C1112,Edmonton,Non-member,In-store,Bikes,Mountain bike,1,1299
+SC-50587,2026-05-23,C1547,Edmonton,Premium,Online,Accessories,Helmet,1,89
+SC-50588,2026-05-23,C1057,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50589,2026-05-23,C1492,Edmonton,Premium,Online,Bikes,Mountain bike,1,1299
+SC-50590,2026-05-23,C1497,Edmonton,Basic,Online,Parts,Chain,3,39
+SC-50591,2026-05-23,C1405,Edmonton,Premium,In-store,Accessories,Pannier bags,2,129
+SC-50592,2026-05-23,C1252,Edmonton,Basic,Online,Parts,Tire,1,54
+SC-50593,2026-05-24,C1072,Edmonton,Premium,In-store,Bikes,Kids bike,1,329
+SC-50593,2026-05-24,C1072,Edmonton,Premium,In-store,Bikes,Kids bike,1,329
+SC-50594,2026-05-24,C1584,St. Albert,Non-member,In-store,Accessories,Water bottle,2,14
+SC-50595,2026-05-25,C1017,Edmonton,Premium,In-store,Parts,Brake pads,1,28
+SC-50596,2026-05-25,C1206,Sherwood Park,Basic,In-store,Bikes,Road bike,1,1649
+SC-50597,2026-05-25,C1088,St. Albert,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50598,2026-05-25,C1221,Edmonton,Basic,Online,Clothing,Winter balaclava,1,29
+SC-50599,2026-05-25,C1182,St. Albert,Basic,Online,E-bikes,Commuter e-bike,2,2899
+SC-50600,2026-05-26,C1276,Edmonton,Non-member,Online,Parts,Tire,1,54
+SC-50601,2026-05-26,C1473,Edmonton,Non-member,Online,Parts,Brake pads,3,28
+SC-50602,2026-05-26,C1489,Sherwood Park,Basic,In-store,Accessories,Light set,1,65
+SC-50603,2026-05-26,C1373,Sherwood Park,Non-member,Online,Accessories,Water bottle,4,14
+SC-50604,2026-05-26,C1294,Edmonton,Premium,In-store,Parts,Chain,1,39
+SC-50605,2026-05-27,C1170,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50606,2026-05-27,C1140,St Albert,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-50607,2026-05-27,C1041,St. Albert,Non-member,In-store,Bikes,Mountain bike,1,1299
+SC-50608,2026-05-27,C1217,Edmonton,Premium,In-store,Parts,Brake pads,1,28
+SC-50609,2026-05-28,C1186,St. Albert,Non-member,In-store,Bikes,Road bike,1,1649
+SC-50610,2026-05-28,C1269,Spruce Grove,Non-member,Online,Clothing,Winter balaclava,2,29
+SC-50611,2026-05-28,C1148,Edmonton,Premium,Online,Accessories,Lock,1,59
+SC-50612,2026-05-28,C1123,Edmonton,Basic,In-store,Parts,Inner tube,4,12
+SC-50613,2026-05-28,C1083,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50614,2026-05-28,C1456,Edmonton,Non-member,Online,Accessories,Water bottle,4,14
+SC-50615,2026-05-29,C1090,Spruce Grove,Non-member,Online,Accessories,Water bottle,3,14
+SC-50616,2026-05-29,C1363,Sherwood Park,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50617,2026-05-29,C1507,,Non-member,In-store,Bikes,Kids bike,1,329
+SC-50618,2026-05-29,C1448,Edmonton,Non-member,Online,Parts,Inner tube,3,12
+SC-50619,2026-05-29,C1019,Edmonton,Premium,Online,Clothing,Cycling gloves,1,35
+SC-50620,2026-05-29,C1621,Sherwood Park,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-50621,2026-05-30,C1118,Edmonton,Premium,Online,Accessories,Lock,2,59
+SC-50622,2026-05-30,C1450,St. Albert,Basic,In-store,Accessories,Light set,1,65
+SC-50623,2026-05-30,C1425,Edmonton,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50624,2026-05-30,C1019,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,2,2899
+SC-50625,2026-05-30,C1169,Edmonton,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-50626,2026-05-31,C1572,Leduc,Premium,In-store,Parts,Brake pads,1,28
+SC-50627,2026-05-31,C1019,Edmonton,Premium,Online,Accessories,Lock,1,59
+SC-50628,2026-05-31,C1212,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50629,2026-06-01,C1488,Edmonton,Premium,In-store,Bikes,Kids bike,1,329
+SC-50630,2026-06-01,C1266,Edmonton,Premium,Online,Accessories,Helmet,2,89
+SC-50631,2026-06-01,C1502,Edmonton,Premium,In-store,Bikes,Road bike,2,1649
+SC-50632,2026-06-01,C1006,Sherwood Park,Non-member,In-store,Parts,Chain,2,39
+SC-50633,2026-06-01,C1146,Edmonton,Basic,In-store,Parts,Chain,1,39
+SC-50634,2026-06-01,C1548,Edmonton,Basic,In-store,Accessories,Water bottle,3,14
+SC-50635,2026-06-01,C1622,Sherwood Park ,Basic,In-store,Accessories,Water bottle,1,14
+SC-50636,2026-06-02,C1082,St. Albert,Basic,Online,Accessories,Helmet,1,89
+SC-50637,2026-06-02,C1246,Edmonton,Non-member,Online,Accessories,Light set,2,65
+SC-50638,2026-06-02,C1019,Edmonton,Premium,In-store,Bikes,Road bike,1,1649
+SC-50639,2026-06-02,C1161,Edmonton,Basic,Online,Parts,Inner tube,4,12
+SC-50640,2026-06-02,C1325,Edmonton,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-50641,2026-06-02,C1603,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50642,2026-06-02,C1361,St. Albert,Basic,Online,Parts,Inner tube,3,12
+SC-50643,2026-06-02,C1526,St. Albert,Premium,Online,Accessories,Lock,1,59
+SC-50643,2026-06-02,C1526,St. Albert,Premium,Online,Accessories,Lock,1,59
+SC-50644,2026-06-02,C1415,Edmonton,Non-member,In-store,Accessories,Light set,1,65
+SC-50645,2026-06-02,C1582,Edmonton,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-50646,2026-06-03,C1152,Edmonton,Non-member,Online,Accessories,Helmet,1,89
+SC-50647,2026-06-04,C1148,Edmonton,Premium,Online,Bikes,Road bike,1,1649
+SC-50648,2026-06-04,C1390,Edmonton,Basic,In-store,Clothing,Jersey,1,85
+SC-50649,2026-06-04,C1327,Edmonton,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50650,2026-06-04,C1482,Edmonton,Non-member,Online,Accessories,Pannier bags,2,129
+SC-50651,2026-06-04,C1442,Edmonton,Non-member,Online,Accessories,Helmet,1,89
+SC-50652,2026-06-04,C1526,St. Albert,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50653,2026-06-05,C1055,Edmonton,Basic,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50654,2026-06-05,C1318,Edmonton,Premium,Online,Parts,Brake pads,2,28
+SC-50655,2026-06-05,C1461,Sherwood Park,Non-member,Online,Parts,Tire,2,54
+SC-50656,2026-06-05,C1231,Edmonton,Basic,In-store,Parts,Inner tube,3,12
+SC-50657,2026-06-05,C1125,Edmonton,Premium,In-store,Bikes,Commuter bike,2,849
+SC-50658,2026-06-05,C1405,Edmonton,Premium,In-store,Parts,Brake pads,1,28
+SC-50659,2026-06-06,C1351,Edmonton,Non-member,In-store,Bikes,Road bike,1,1649
+SC-50660,2026-06-06,C1191,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50661,2026-06-06,C1070,Edmonton,Non-member,In-store,Bikes,Commuter bike,1,849
+SC-50662,2026-06-06,C1528,Leduc,Premium,Online,Accessories,Pannier bags,3,129
+SC-50663,2026-06-06,C1636,Spruce Grove,Basic,In-store,Parts,Inner tube,2,12
+SC-50664,2026-06-07,C1586,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50665,2026-06-07,C1441,St. Albert,Premium,In-store,Clothing,Cycling gloves,1,35
+SC-50666,2026-06-07,C1413,Spruce Grove,Basic,In-store,Accessories,Water bottle,2,14
+SC-50667,2026-06-08,C1361,St. Albert,Basic,In-store,Bikes,Road bike,1,1649
+SC-50668,2026-06-08,C1011,Leduc,Basic,Online,Accessories,Water bottle,1,14
+SC-50669,2026-06-08,C1240,Edmonton,Non-member,Online,Accessories,Light set,1,65
+SC-50670,2026-06-08,C1594,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50671,2026-06-08,C1449,St. Albert,Non-member,In-store,Bikes,Road bike,2,1649
+SC-50672,2026-06-08,C1472,St. Albert,Basic,Online,Parts,Tire,3,54
+SC-50673,2026-06-09,C1173,Edmonton,Premium,In-store,Bikes,Kids bike,2,329
+SC-50674,2026-06-09,C1585,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50675,2026-06-09,C1240,Edmonton,Non-member,In-store,Accessories,Water bottle,4,14
+SC-50676,2026-06-09,C1491,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50677,2026-06-09,C1125,Edmonton,Premium,In-store,Bikes,Kids bike,1,329
+SC-50678,2026-06-09,C1036,,Non-member,In-store,Parts,Inner tube,4,12
+SC-50679,2026-06-09,C1498,Edmonton,Basic,Online,Parts,Tire,3,54
+SC-50680,2026-06-09,C1644,Edmonton,Non-member,In-store,Accessories,Water bottle,60,14
+SC-50681,2026-06-10,C1479,Edmonton,Basic,In-store,Bikes,Kids bike,1,329
+SC-50682,2026-06-10,C1424,Sherwood Park,Basic,In-store,Parts,Tire,1,54
+SC-50683,2026-06-10,C1262,Edmonton,Premium,In-store,Parts,Brake pads,1,28
+SC-50684,2026-06-10,C1344,St. Albert,Non-member,In-store,Parts,Brake pads,1,28
+SC-50685,2026-06-10,C1521,,Non-member,In-store,Accessories,Light set,1,65
+SC-50686,2026-06-11,C1274,Sherwood Park,Non-member,In-store,Accessories,Lock,1,59
+SC-50687,2026-06-11,C1411,Edmonton,Non-member,Online,Accessories,Helmet,1,89
+SC-50688,2026-06-11,C1595,Edmonton,Non-member,Online,Parts,Brake pads,3,28
+SC-50689,2026-06-11,C1287,Sherwood Park,Non-member,In-store,Accessories,Lock,1,59
+SC-50690,2026-06-11,C1070,Edmonton,Non-member,In-store,Accessories,Light set,1,65
+SC-50691,2026-06-12,C1018,Edmonton,Premium,In-store,Accessories,Helmet,1,89
+SC-50692,2026-06-12,C1124,Edmonton,Basic,Online,Parts,Inner tube,1,12
+SC-50693,2026-06-12,C1356,St Albert,Non-member,In-store,Bikes,Mountain bike,1,1299
+SC-50694,2026-06-12,C1367,Spruce Grove,Premium,In-store,Bikes,Kids bike,1,329
+SC-50695,2026-06-12,C1636,Spruce Grove,Basic,In-store,Parts,Tire,1,54
+SC-50696,2026-06-13,C1497,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50697,2026-06-13,C1081,Edmonton,Premium,In-store,Accessories,Light set,1,65
+SC-50698,2026-06-13,C1141,St. Albert,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50699,2026-06-13,C1605,Sherwood Park,Premium,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50700,2026-06-13,C1404,Edmonton,Basic,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50701,2026-06-13,C1129,Edmonton,Non-member,In-store,Accessories,Lock,1,59
+SC-50702,2026-06-14,C1505,Edmonton,Basic,In-store,Accessories,Helmet,1,89
+SC-50703,2026-06-14,C1045,Edmonton,Basic,Online,Parts,Inner tube,3,12
+SC-50704,2026-06-14,C1291,Edmonton,Non-member,In-store,Bikes,Mountain bike,1,1299
+SC-50705,2026-06-14,C1415,Edmonton,Non-member,Online,Clothing,Cycling gloves,1,35
+SC-50706,2026-06-14,C1144,Edmonton,Basic,In-store,Bikes,Road bike,1,1649
+SC-50707,2026-06-14,C1502,Edmonton,Premium,In-store,Bikes,Kids bike,1,329
+SC-50708,2026-06-14,C1367,Spruce Grove,Premium,Online,Bikes,Commuter bike,1,849
+SC-50709,2026-06-14,C1313,Edmonton,Non-member,In-store,Bikes,Kids bike,1,329
+SC-50710,2026-06-14,C1080,Edmonton,Non-member,Online,Accessories,Helmet,1,89
+SC-50711,2026-06-14,C1414,St. Albert,Non-member,In-store,Parts,Inner tube,1,12
+SC-50712,2026-06-14,C1397,Edmonton,Non-member,Online,Accessories,Helmet,2,89
+SC-50713,2026-06-15,C1435,Edmonton,Non-member,Online,Accessories,Helmet,1,89
+SC-50714,2026-06-16,C1173,Edmonton,Premium,In-store,Parts,Inner tube,4,12
+SC-50715,2026-06-16,C1084,Edmonton,Premium,In-store,Bikes,Road bike,1,1649
+SC-50716,2026-06-16,C1446,Edmonton,Basic,Online,Bikes,Commuter bike,1,849
+SC-50717,2026-06-16,C1502,Edmonton,Premium,In-store,Accessories,Helmet,1,89
+SC-50718,2026-06-16,C1423,St Albert,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50719,2026-06-17,C1190,Edmonton,Non-member,In-store,Clothing,Rain jacket,1,149
+SC-50720,2026-06-17,C1471,Edmonton,Premium,Online,Bikes,Road bike,1,1649
+SC-50721,2026-06-17,C1640,Edmonton,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50722,2026-06-18,C1506,Edmonton,Basic,Online,Accessories,Light set,2,65
+SC-50723,2026-06-18,C1294,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50724,2026-06-18,C1364,Sherwood Park,Non-member,Online,Bikes,Road bike,1,1649
+SC-50725,2026-06-18,C1012,Spruce Grove,Premium,In-store,E-bikes,Cargo e-bike,2,4999
+SC-50726,2026-06-18,C1633,Spruce Grove,Non-member,In-store,Bikes,Kids bike,1,329
+SC-50727,2026-06-18,C1518,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50728,2026-06-18,C1592,Edmonton,Premium,In-store,Parts,Chain,1,39
+SC-50729,2026-06-18,C1533,Edmonton,Premium,Online,Bikes,Road bike,2,1649
+SC-50730,2026-06-18,C1558,Edmonton,Non-member,Online,Accessories,Water bottle,2,14
+SC-50731,2026-06-18,C1645,Sherwood Park,Basic,In-store,Clothing,Jersey,22,85
+SC-50732,2026-06-19,C1564,Sherwood Park,Basic,In-store,Accessories,Water bottle,1,14
+SC-50733,2026-06-19,C1248,Edmonton,Non-member,In-store,Accessories,Lock,2,59
+SC-50734,2026-06-19,C1442,Edmonton,Non-member,In-store,Parts,Brake pads,1,28
+SC-50735,2026-06-19,C1066,,Non-member,In-store,Accessories,Light set,1,65
+SC-50736,2026-06-19,C1258,Leduc,Basic,Online,Accessories,Helmet,1,89
+SC-50737,2026-06-20,C1503,Spruce Grove,Basic,In-store,Bikes,Road bike,1,1649
+SC-50738,2026-06-20,C1052,Edmonton,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50739,2026-06-20,C1441,St Albert,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50740,2026-06-20,C1350,Sherwood Park,Basic,In-store,Parts,Inner tube,4,12
+SC-50741,2026-06-20,C1613,Sherwood Park,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50742,2026-06-20,C1154,Edmonton,Non-member,In-store,Bikes,Road bike,1,1649
+SC-50743,2026-06-20,C1172,Edmonton,Premium,In-store,Parts,Inner tube,1,12
+SC-50744,2026-06-21,C1074,Leduc,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-50745,2026-06-21,C1489,Sherwood Park,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50746,2026-06-21,C1510,Sherwood Park,Basic,Online,Clothing,Cycling gloves,2,35
+SC-50747,2026-06-21,C1111,St. Albert,Basic,Online,Accessories,Light set,2,65
+SC-50748,2026-06-22,C1111,St. Albert,Basic,In-store,Accessories,Water bottle,2,14
+SC-50749,2026-06-22,C1346,Edmonton,Basic,In-store,Parts,Tire,1,54
+SC-50750,2026-06-22,C1107,St Albert,Basic,In-store,Accessories,Lock,1,59
+SC-50751,2026-06-22,C1257,Edmonton,Premium,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50752,2026-06-23,C1196,Edmonton,Non-member,In-store,Accessories,Light set,2,65
+SC-50753,2026-06-23,C1606,edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50754,2026-06-23,C1149,Edmonton,Non-member,In-store,Accessories,Water bottle,1,14
+SC-50755,2026-06-23,C1433,Edmonton,Non-member,Online,Accessories,Water bottle,2,14
+SC-50756,2026-06-23,C1348,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50757,2026-06-23,C1056,St. Albert,Basic,In-store,Parts,Tire,1,54
+SC-50758,2026-06-23,C1238,St. Albert,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50759,2026-06-23,C1184,Leduc,Basic,Online,Accessories,Helmet,1,89
+SC-50760,2026-06-24,C1407,Edmonton,Basic,Online,Accessories,Water bottle,1,14
+SC-50761,2026-06-24,C1423,St. Albert,Basic,Online,Accessories,Light set,1,65
+SC-50762,2026-06-24,C1069,Sherwood Park,Non-member,In-store,Parts,Inner tube,1,12
+SC-50763,2026-06-24,C1106,Edmonton,Basic,In-store,Bikes,Road bike,1,1649
+SC-50764,2026-06-24,C1032,Spruce Grove,Basic,Online,Accessories,Water bottle,4,14
+SC-50765,2026-06-25,C1205,Sherwood Park,Basic,Online,Accessories,Helmet,3,89
+SC-50766,2026-06-25,C1445,Edmonton,Non-member,Online,Accessories,Light set,1,65
+SC-50767,2026-06-25,C1595,Edmonton,Non-member,In-store,Parts,Inner tube,2,12
+SC-50768,2026-06-25,C1191,Edmonton,Premium,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50769,2026-06-26,C1461,Sherwood Park,Non-member,In-store,Parts,Inner tube,2,12
+SC-50770,2026-06-26,C1556,Spruce Grove,Basic,In-store,Parts,Inner tube,3,12
+SC-50771,2026-06-27,C1621,Sherwood Park,Premium,In-store,Bikes,Kids bike,1,329
+SC-50772,2026-06-27,C1270,Edmonton,Premium,In-store,E-bikes,Cargo e-bike,2,4999
+SC-50773,2026-06-27,C1577,Edmonton,Non-member,Online,Bikes,Kids bike,1,329
+SC-50774,2026-06-27,C1497,Edmonton,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50775,2026-06-27,C1147,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50776,2026-06-27,C1582,Edmonton,Premium,In-store,Parts,Inner tube,4,12
+SC-50777,2026-06-28,C1189,St. Albert,Basic,Online,Accessories,Water bottle,3,14
+SC-50778,2026-06-28,C1119,Edmonton,Premium,In-store,Parts,Brake pads,1,28
+SC-50779,2026-06-28,C1124,Edmonton,Basic,Online,Parts,Chain,1,39
+SC-50780,2026-06-28,C1172,Edmonton,Premium,Online,Clothing,Rain jacket,1,149
+SC-50781,2026-06-28,C1289,Edmonton,Basic,In-store,Accessories,Pannier bags,1,129
+SC-50782,2026-06-28,C1131,Leduc,Premium,Online,Bikes,Commuter bike,2,849
+SC-50783,2026-06-29,C1028,Edmonton,Premium,In-store,Parts,Inner tube,2,12
+SC-50784,2026-06-29,C1557,Edmonton,Non-member,In-store,Parts,Tire,1,54
+SC-50785,2026-06-29,C1393,Edmonton,Non-member,In-store,Clothing,Cycling gloves,1,35
+SC-50786,2026-06-29,C1494,St. Albert,Basic,In-store,Parts,Inner tube,2,12
+SC-50787,2026-06-29,C1085,Edmonton,Basic,In-store,Parts,Chain,1,39
+SC-50788,2026-06-29,C1099,Edmonton,Premium,In-store,Accessories,Light set,1,65
+SC-50789,2026-06-29,C1086,St. Albert,Basic,In-store,Clothing,Cycling gloves,2,35
+SC-50790,2026-06-29,C1515,Edmonton,Basic,Online,Clothing,Cycling gloves,1,35
+SC-50791,2026-06-29,C1367,Spruce Grove,Premium,In-store,Parts,Tire,1,54
+SC-50792,2026-06-29,C1465,Edmonton,Basic,Online,Clothing,Cycling gloves,2,35
+SC-50793,2026-06-30,C1391,Sherwood Park,Non-member,Online,Accessories,Lock,1,59
+SC-50794,2026-06-30,C1066,Leduc,Non-member,Online,Accessories,Water bottle,2,14
+SC-50795,2026-06-30,C1080,Edmonton,Non-member,In-store,Accessories,Light set,3,65
+SC-50796,2026-06-30,C1579,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50797,2026-06-30,C1152,Edmonton,Non-member,Online,Accessories,Helmet,1,89
+SC-50798,2026-06-30,C1341,Spruce Grove,Premium,In-store,Parts,Inner tube,1,12
+SC-50799,2026-06-30,C1121,St. Albert,Basic,In-store,Accessories,Helmet,1,89
+SC-50800,2026-06-30,C1010,Edmonton,Non-member,In-store,Accessories,Helmet,2,89
+SC-50801,2026-06-30,C1332,Spruce Grove,Basic,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50802,2026-07-01,C1237,Edmonton,Non-member,In-store,Accessories,Helmet,2,89
+SC-50803,2026-07-01,C1121,St. Albert,Basic,In-store,Accessories,Lock,1,59
+SC-50804,2026-07-01,C1556,Spruce Grove,Basic,In-store,Bikes,Road bike,1,1649
+SC-50805,2026-07-01,C1376,Edmonton,Basic,In-store,Parts,Inner tube,4,12
+SC-50806,2026-07-01,C1563,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50807,2026-07-01,C1382,Edmonton,Premium,In-store,Clothing,Winter balaclava,1,29
+SC-50808,2026-07-03,C1064,Edmonton,Non-member,Online,Parts,Chain,1,39
+SC-50809,2026-07-03,C1474,Spruce Grove,Basic,In-store,Parts,Inner tube,2,12
+SC-50810,2026-07-03,C1158,Edmonton,Basic,Online,Accessories,Lock,1,59
+SC-50811,2026-07-03,C1055,Edmonton,Basic,In-store,Parts,Warranty replacement,1,0
+SC-50812,2026-07-03,C1549,Edmonton,Basic,In-store,Parts,Inner tube,1,12
+SC-50813,2026-07-04,C1321,Sherwood Park ,Basic,Online,Accessories,Lock,1,59
+SC-50814,2026-07-04,C1585,Edmonton,Basic,In-store,Parts,Inner tube,1,12
+SC-50815,2026-07-04,C1592,Edmonton,Premium,In-store,Bikes,Kids bike,1,329
+SC-50816,2026-07-04,C1236,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50817,2026-07-05,C1031,Edmonton,Premium,In-store,Accessories,Light set,2,65
+SC-50818,2026-07-05,C1108,Spruce Grove,Non-member,Online,Accessories,Lock,1,59
+SC-50819,2026-07-05,C1289,Edmonton,Basic,Online,Accessories,Helmet,2,89
+SC-50820,2026-07-06,C1162,Edmonton,Basic,Online,Accessories,Helmet,1,89
+SC-50821,2026-07-06,C1266,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50822,2026-07-06,C1629,Leduc,Basic,Online,Accessories,Helmet,2,89
+SC-50823,2026-07-06,C1513,Leduc,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50824,2026-07-07,C1559,Edmonton,Non-member,Online,Accessories,Helmet,2,89
+SC-50825,2026-07-07,C1646,Spruce Grove,Basic,In-store,Parts,Inner tube,25,12
+SC-50826,2026-07-08,C1575,Edmonton,Non-member,In-store,Accessories,Lock,1,59
+SC-50827,2026-07-09,C1276,Edmonton,Non-member,Online,Accessories,Water bottle,3,14
+SC-50828,2026-07-09,C1008,Edmonton,Non-member,In-store,Bikes,Mountain bike,1,1299
+SC-50829,2026-07-09,C1473,Edmonton,Non-member,Online,Parts,Inner tube,2,12
+SC-50830,2026-07-09,C1260,Edmonton,Basic,Online,Accessories,Lock,1,59
+SC-50831,2026-07-09,C1321,Sherwood Park,Basic,In-store,Parts,Brake pads,1,28
+SC-50832,2026-07-09,C1003,Edmonton,Non-member,In-store,Parts,Tire,3,54
+SC-50833,2026-07-10,C1055,Edmonton,Basic,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50834,2026-07-10,C1352,St. Albert,Premium,In-store,Accessories,Pannier bags,2,129
+SC-50835,2026-07-10,C1129,Edmonton,Non-member,In-store,Clothing,Jersey,1,85
+SC-50836,2026-07-10,C1346,Edmonton,Basic,In-store,Parts,Tire,1,54
+SC-50837,2026-07-10,C1155,St. Albert,Premium,In-store,Parts,Tire,1,54
+SC-50838,2026-07-10,C1464,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50839,2026-07-10,C1501,Spruce Grove,Non-member,Online,Clothing,Cycling gloves,1,35
+SC-50840,2026-07-10,C1361,St. Albert,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50841,2026-07-11,C1217,Edmonton,Premium,In-store,Parts,Brake pads,2,28
+SC-50842,2026-07-11,C1134,Spruce Grove,Non-member,In-store,Parts,Brake pads,1,28
+SC-50843,2026-07-11,C1242,Leduc,Basic,Online,Clothing,Winter balaclava,1,29
+SC-50844,2026-07-11,C1449,St. Albert,Non-member,In-store,Accessories,Lock,1,59
+SC-50845,2026-07-11,C1605,Sherwood Park,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50846,2026-07-12,C1125,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50847,2026-07-13,C1163,Edmonton,Basic,In-store,Parts,Brake pads,1,28
+SC-50848,2026-07-13,C1060,Sherwood Park,Basic,In-store,Accessories,Lock,1,59
+SC-50849,2026-07-13,C1095,St. Albert,Non-member,In-store,Parts,Chain,1,39
+SC-50850,2026-07-14,C1224,Edmonton,Basic,In-store,Accessories,Helmet,1,89
+SC-50851,2026-07-14,C1211,Edmonton,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50852,2026-07-15,C1443,,Non-member,In-store,Accessories,Helmet,1,89
+SC-50853,2026-07-15,C1425,Edmonton,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50854,2026-07-16,C1205,Sherwood Park,Basic,Online,Clothing,Winter balaclava,3,29
+SC-50855,2026-07-16,C1359,Edmonton,Non-member,Online,Parts,Brake pads,2,28
+SC-50856,2026-07-17,C1425,Edmonton,Basic,In-store,Accessories,Water bottle,1,14
+SC-50857,2026-07-17,C1125,Edmonton,Premium,In-store,Parts,Chain,1,39
+SC-50858,2026-07-18,C1627,Edmonton,Basic,Online,Parts,Inner tube,2,12
+SC-50859,2026-07-18,C1394,Edmonton,Basic,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50860,2026-07-18,C1225,Edmonton,Basic,In-store,Parts,Inner tube,2,12
+SC-50861,2026-07-19,C1031,Edmonton,Premium,In-store,Accessories,Water bottle,2,14
+SC-50861,2026-07-19,C1031,Edmonton,Premium,In-store,Accessories,Water bottle,2,14
+SC-50862,2026-07-19,C1148,Edmonton,Premium,Online,Parts,Brake pads,2,28
+SC-50863,2026-07-19,C1446,Edmonton,Basic,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50864,2026-07-19,C1493,Sherwood Park ,Non-member,In-store,Bikes,Road bike,1,1649
+SC-50865,2026-07-19,C1172,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50866,2026-07-19,C1441,St. Albert,Premium,Online,Parts,Tire,1,54
+SC-50867,2026-07-19,C1141,St. Albert,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50868,2026-07-19,C1003,Edmonton,Non-member,Online,Parts,Warranty replacement,1,0
+SC-50869,2026-07-19,C1029,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50870,2026-07-20,C1400,St. Albert,Non-member,In-store,Accessories,Lock,2,59
+SC-50871,2026-07-20,C1175,Leduc,Non-member,Online,Accessories,Light set,1,65
+SC-50872,2026-07-20,C1232,Edmonton,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50873,2026-07-20,C1067,Edmonton,Non-member,In-store,Parts,Warranty replacement,1,0
+SC-50874,2026-07-20,C1005,Edmonton,Non-member,In-store,Clothing,Jersey,1,85
+SC-50875,2026-07-21,C1446,Edmonton,Basic,In-store,Parts,Inner tube,2,12
+SC-50876,2026-07-21,C1491,Edmonton,Premium,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50877,2026-07-21,C1563,Edmonton,Premium,Online,E-bikes,Cargo e-bike,1,4999
+SC-50878,2026-07-22,C1606,Edmonton,Premium,In-store,Accessories,Pannier bags,1,129
+SC-50879,2026-07-23,C1350,Sherwood Park,Basic,Online,Accessories,Light set,1,65
+SC-50880,2026-07-23,C1571,St. Albert,Premium,In-store,Parts,Inner tube,2,12
+SC-50881,2026-07-23,C1423,St. Albert,Basic,In-store,Accessories,Light set,1,65
+SC-50882,2026-07-23,C1174,Leduc,Non-member,Online,Clothing,Cycling gloves,1,35
+SC-50883,2026-07-24,C1517,Edmonton,Non-member,Online,Clothing,Winter balaclava,1,29
+SC-50884,2026-07-24,C1390,Edmonton,Basic,In-store,Accessories,Light set,2,65
+SC-50885,2026-07-24,C1149,Edmonton,Non-member,In-store,Accessories,Light set,1,65
+SC-50886,2026-07-25,C1488,edmonton,Premium,In-store,E-bikes,Commuter e-bike,2,2899
+SC-50887,2026-07-25,C1401,Edmonton,Premium,In-store,Bikes,Mountain bike,2,1299
+SC-50888,2026-07-25,C1318,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50889,2026-07-25,C1381,Edmonton,Non-member,Online,Accessories,Water bottle,3,14
+SC-50890,2026-07-25,C1577,Edmonton,Non-member,In-store,Clothing,Jersey,1,85
+SC-50891,2026-07-26,C1074,Leduc,Premium,Online,Accessories,Light set,1,65
+SC-50892,2026-07-26,C1612,Edmonton,Non-member,Online,Parts,Inner tube,1,12
+SC-50893,2026-07-26,C1571,St. Albert,Premium,In-store,Bikes,Road bike,1,1649
+SC-50894,2026-07-26,C1066,Leduc,Non-member,In-store,Parts,Inner tube,1,12
+SC-50895,2026-07-26,C1012,Spruce Grove,Premium,Online,Clothing,Winter balaclava,1,29
+SC-50896,2026-07-27,C1603,Edmonton,Premium,Online,Parts,Inner tube,3,12
+SC-50897,2026-07-27,C1014,Sherwood Park,Non-member,In-store,Accessories,Light set,2,65
+SC-50898,2026-07-27,C1188,Edmonton,Basic,In-store,Parts,Inner tube,1,12
+SC-50899,2026-07-27,C1084,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50900,2026-07-28,C1481,Edmonton,Basic,In-store,Accessories,Helmet,2,89
+SC-50901,2026-07-28,C1303,Edmonton,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50902,2026-07-28,C1226,Edmonton,Non-member,In-store,Parts,Tire,1,54
+SC-50903,2026-07-28,C1194,Edmonton,Non-member,In-store,Parts,Tire,1,54
+SC-50904,2026-07-29,C1605,Sherwood Park,Premium,In-store,Bikes,Road bike,1,1649
+SC-50905,2026-07-29,C1329,Spruce Grove,Premium,Online,Accessories,Helmet,1,89
+SC-50906,2026-07-29,C1212,Edmonton,Premium,In-store,Accessories,Pannier bags,-1,129
+SC-50907,2026-07-30,C1394,Edmonton,Basic,In-store,Parts,Chain,2,39
+SC-50908,2026-07-30,C1202,St. Albert,Non-member,Online,Accessories,Lock,1,59
+SC-50909,2026-07-30,C1333,Edmonton,Basic,Online,Parts,Inner tube,1,12
+SC-50910,2026-07-30,C1177,Spruce Grove,Basic,Online,Parts,Inner tube,3,12
+SC-50911,2026-07-31,C1070,Edmonton,Non-member,In-store,Bikes,Commuter bike,1,849
+SC-50912,2026-07-31,C1404,Edmonton,Basic,Online,Accessories,Water bottle,2,14
+SC-50913,2026-08-01,C1637,St. Albert,Non-member,In-store,Bikes,Mountain bike,1,1299
+SC-50914,2026-08-01,C1231,Edmonton,Basic,In-store,Clothing,Rain jacket,1,149
+SC-50915,2026-08-01,C1472,St. Albert,Basic,Online,Accessories,Light set,1,65
+SC-50916,2026-08-02,C1079,Edmonton,Basic,Online,Clothing,Cycling gloves,1,35
+SC-50917,2026-08-03,C1177,Spruce Grove,Basic,In-store,Parts,Brake pads,2,28
+SC-50918,2026-08-04,C1438,Edmonton,Non-member,In-store,Accessories,Light set,1,65
+SC-50919,2026-08-04,C1599,Spruce Grove,Non-member,Online,Parts,Chain,1,39
+SC-50920,2026-08-04,C1575,Edmonton,Non-member,In-store,Parts,Warranty replacement,1,0
+SC-50921,2026-08-04,C1220,Edmonton,Non-member,Online,Accessories,Lock,3,59
+SC-50922,2026-08-04,C1135,Edmonton,Non-member,In-store,E-bikes,Cargo e-bike,1,4999
+SC-50923,2026-08-05,C1089,Edmonton,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50924,2026-08-05,C1512,Edmonton,Basic,Online,Parts,Inner tube,2,12
+SC-50925,2026-08-06,C1085,Edmonton,Basic,Online,Accessories,Light set,1,65
+SC-50926,2026-08-06,C1349,Edmonton,Premium,In-store,Clothing,Rain jacket,1,149
+SC-50927,2026-08-06,C1470,Edmonton,Non-member,In-store,Bikes,Mountain bike,2,1299
+SC-50928,2026-08-07,C1191,Edmonton,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-50929,2026-08-07,C1332,Spruce Grove,Basic,In-store,Accessories,Lock,1,59
+SC-50930,2026-08-07,C1495,Sherwood Park,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-50931,2026-08-07,C1018,Edmonton,Premium,Online,Bikes,Commuter bike,1,849
+SC-50932,2026-08-08,C1206,Sherwood Park,Basic,Online,Parts,Chain,1,39
+SC-50933,2026-08-08,C1594,Edmonton,Basic,In-store,Parts,Chain,1,39
+SC-50934,2026-08-08,C1347,,Non-member,In-store,Accessories,Light set,1,65
+SC-50935,2026-08-08,C1376,Edmonton,Basic,In-store,Clothing,Cycling gloves,1,35
+SC-50936,2026-08-09,C1485,Edmonton,Non-member,In-store,Accessories,Lock,1,59
+SC-50937,2026-08-09,C1486,Leduc,Non-member,Online,Accessories,Lock,1,59
+SC-50938,2026-08-09,C1148,Edmonton,Premium,In-store,Accessories,Lock,1,59
+SC-50939,2026-08-10,C1140,St. Albert,Premium,In-store,Parts,Inner tube,2,12
+SC-50940,2026-08-10,C1134,Spruce Grove,Non-member,In-store,Parts,Chain,1,39
+SC-50941,2026-08-10,C1629,Leduc,Basic,In-store,Parts,Inner tube,2,12
+SC-50942,2026-08-10,C1072,Edmonton,Premium,Online,E-bikes,Cargo e-bike,1,4999
+SC-50943,2026-08-10,C1475,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50944,2026-08-10,C1609,Edmonton,Non-member,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50945,2026-08-10,C1180,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50946,2026-08-10,C1121,St. Albert,Basic,Online,Accessories,Helmet,1,89
+SC-50947,2026-08-11,C1629,Leduc,Basic,In-store,Bikes,Kids bike,1,329
+SC-50948,2026-08-11,C1449,St. Albert,Non-member,Online,Bikes,Commuter bike,1,849
+SC-50949,2026-08-11,C1553,Edmonton,Basic,In-store,Parts,Tire,1,54
+SC-50950,2026-08-11,C1093,Leduc,Basic,Online,Accessories,Light set,2,65
+SC-50951,2026-08-13,C1445,Edmonton,Non-member,Online,Accessories,Water bottle,1,14
+SC-50952,2026-08-13,C1056,St. Albert,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-50953,2026-08-13,C1018,Edmonton,Premium,Online,Clothing,Jersey,1,85
+SC-50954,2026-08-13,C1126,Edmonton,Basic,In-store,Parts,Inner tube,1,12
+SC-50955,2026-08-13,C1499,Edmonton,Basic,Online,Clothing,Cycling gloves,1,35
+SC-50956,2026-08-13,C1193,Edmonton,Non-member,In-store,Parts,Tire,3,54
+SC-50957,2026-08-13,C1343,Edmonton,Basic,In-store,Parts,Tire,2,54
+SC-50958,2026-08-13,C1259,Leduc,Basic,Online,Accessories,Light set,1,65
+SC-50959,2026-08-14,C1225,Edmonton,Basic,Online,Accessories,Helmet,1,89
+SC-50960,2026-08-14,C1063,Edmonton,Premium,Online,Accessories,Light set,1,65
+SC-50961,2026-08-14,C1428,Edmonton,Non-member,Online,Parts,Brake pads,1,28
+SC-50962,2026-08-14,C1610,St. Albert,Basic,Online,Accessories,Helmet,3,89
+SC-50963,2026-08-15,C1361,St. Albert,Basic,In-store,Accessories,Light set,1,65
+SC-50964,2026-08-15,C1081,Edmonton,Premium,In-store,Accessories,Light set,1,65
+SC-50965,2026-08-16,C1073,Sherwood Park,Non-member,Online,Clothing,Cycling gloves,3,35
+SC-50966,2026-08-16,C1422,Edmonton,Premium,In-store,Accessories,Lock,1,59
+SC-50967,2026-08-16,C1383,Edmonton,Non-member,Online,Clothing,Cycling gloves,2,35
+SC-50968,2026-08-17,C1244,Edmonton,Basic,Online,Parts,Tire,2,54
+SC-50969,2026-08-17,C1452,Edmonton,Non-member,In-store,Accessories,Water bottle,2,14
+SC-50970,2026-08-18,C1273,Leduc,Basic,Online,Clothing,Cycling gloves,3,35
+SC-50971,2026-08-18,C1465,Edmonton,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50972,2026-08-18,C1144,Edmonton,Basic,In-store,Accessories,Water bottle,4,14
+SC-50973,2026-08-19,C1103,St. Albert,Basic,In-store,Bikes,Commuter bike,1,849
+SC-50974,2026-08-19,C1502,Edmonton,Premium,Online,Parts,Chain,1,39
+SC-50975,2026-08-20,C1148,Edmonton,Premium,In-store,Parts,Inner tube,1,12
+SC-50976,2026-08-21,C1131,Leduc,Premium,Online,Parts,Tire,1,54
+SC-50977,2026-08-21,C1125,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50978,2026-08-21,C1513,Leduc,Basic,Online,Parts,Inner tube,4,12
+SC-50979,2026-08-21,C1243,Leduc,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50980,2026-08-22,C1128,Sherwood Park,Premium,Online,Clothing,Cycling gloves,1,35
+SC-50981,2026-08-22,C1335,St. Albert,Non-member,Online,Accessories,Lock,1,59
+SC-50982,2026-08-23,C1630,Edmonton,Non-member,In-store,Accessories,Water bottle,4,14
+SC-50983,2026-08-23,C1332,Spruce Grove,Basic,Online,Accessories,Helmet,1,89
+SC-50984,2026-08-24,C1278,Edmonton,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-50985,2026-08-24,C1156,Edmonton,Basic,Online,Accessories,Lock,1,59
+SC-50986,2026-08-24,C1262,Edmonton,Premium,In-store,Bikes,Kids bike,2,329
+SC-50987,2026-08-24,C1341,Spruce Grove,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50988,2026-08-25,C1060,Sherwood Park,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-50989,2026-08-25,C1029,Edmonton,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50990,2026-08-25,C1609,Edmonton,Non-member,In-store,Parts,Brake pads,1,28
+SC-50991,2026-08-25,C1647,Leduc,Non-member,In-store,Accessories,Light set,20,65
+SC-50992,2026-08-26,C1015,Edmonton,Premium,In-store,Clothing,Jersey,1,85
+SC-50993,2026-08-26,C1528,Leduc,Premium,In-store,Bikes,Commuter bike,1,849
+SC-50994,2026-08-26,C1589,Edmonton,Basic,In-store,Accessories,Helmet,2,89
+SC-50995,2026-08-26,C1520,Edmonton,Non-member,Online,Accessories,Water bottle,2,14
+SC-50996,2026-08-26,C1443,Sherwood Park,Non-member,In-store,Parts,Inner tube,2,12
+SC-50997,2026-08-27,C1499,Edmonton,Basic,In-store,Accessories,Helmet,3,89
+SC-50998,2026-08-27,C1210,,Non-member,In-store,Accessories,Water bottle,6,14
+SC-50999,2026-08-27,C1316,Edmonton,Non-member,Online,Clothing,Winter balaclava,1,29
+SC-51000,2026-08-27,C1194,Edmonton,Non-member,In-store,Parts,Brake pads,3,28
+SC-51001,2026-08-28,C1530,Leduc,Non-member,In-store,Clothing,Cycling gloves,1,35
+SC-51002,2026-08-28,C1491,Edmonton,Premium,In-store,Accessories,Light set,1,65
+SC-51003,2026-08-28,C1145,Leduc,Non-member,In-store,Parts,Chain,2,39
+SC-51004,2026-08-28,C1327,Edmonton,Basic,In-store,Accessories,Water bottle,1,14
+SC-51005,2026-08-28,C1528,Leduc,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-51006,2026-08-29,C1212,Edmonton,Premium,In-store,E-bikes,Cargo e-bike,1,4999
+SC-51007,2026-08-29,C1304,Edmonton,Non-member,In-store,Accessories,Water bottle,2,14
+SC-51008,2026-08-29,C1134,Spruce Grove,Non-member,Online,Clothing,Jersey,1,85
+SC-51009,2026-08-29,C1325,Edmonton,Premium,In-store,Clothing,Rain jacket,1,149
+SC-51010,2026-08-30,C1281,Sherwood Park,Non-member,Online,Accessories,Lock,1,59
+SC-51011,2026-08-30,C1340,Leduc,Basic,Online,Parts,Chain,1,39
+SC-51012,2026-08-30,C1132,St. Albert,Basic,Online,Parts,Tire,1,54
+SC-51013,2026-08-30,C1125,Edmonton,Premium,In-store,Bikes,Road bike,1,1649
+SC-51014,2026-08-31,C1401,Edmonton,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-51015,2026-09-01,C1271,Edmonton,Non-member,Online,Accessories,Lock,1,59
+SC-51016,2026-09-01,C1453,Edmonton,Non-member,Online,Clothing,Cycling gloves,2,35
+SC-51017,2026-09-01,C1122,Spruce Grove,Premium,Online,Parts,Tire,1,54
+SC-51018,2026-09-01,C1024,Edmonton,Non-member,In-store,Bikes,Kids bike,1,329
+SC-51019,2026-09-02,C1112,Edmonton,Non-member,In-store,Accessories,Lock,3,59
+SC-51020,2026-09-02,C1088,St. Albert,Basic,In-store,E-bikes,Commuter e-bike,1,2899
+SC-51021,2026-09-02,C1540,Edmonton,Non-member,In-store,Clothing,Cycling gloves,1,35
+SC-51022,2026-09-02,C1346,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-51023,2026-09-02,C1609,Edmonton,Non-member,Online,Accessories,Lock,1,59
+SC-51024,2026-09-02,C1171,Edmonton,Non-member,In-store,Parts,Tire,2,54
+SC-51025,2026-09-03,C1278,Edmonton,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-51026,2026-09-03,C1238,St. Albert,Basic,Online,Bikes,Kids bike,1,329
+SC-51027,2026-09-04,C1545,Sherwood Park,Non-member,In-store,Accessories,Light set,1,65
+SC-51028,2026-09-04,C1174,Leduc,Non-member,In-store,Clothing,Cycling gloves,1,35
+SC-51029,2026-09-04,C1123,Edmonton,Basic,Online,Parts,Chain,2,39
+SC-51030,2026-09-04,C1494,St. Albert,Basic,In-store,Clothing,Jersey,1,85
+SC-51031,2026-09-05,C1185,Edmonton,Non-member,In-store,Parts,Inner tube,2,12
+SC-51032,2026-09-05,C1186,St. Albert,Non-member,In-store,Clothing,Cycling gloves,1,35
+SC-51033,2026-09-06,C1242,Leduc,Basic,Online,Parts,Inner tube,2,12
+SC-51034,2026-09-06,C1598,Edmonton,Non-member,Online,Clothing,Winter balaclava,2,29
+SC-51035,2026-09-06,C1026,Edmonton,Non-member,Online,Accessories,Lock,1,59
+SC-51036,2026-09-07,C1017,Edmonton,Premium,In-store,Accessories,Helmet,2,89
+SC-51037,2026-09-07,C1402,Edmonton,Basic,In-store,Accessories,Lock,1,59
+SC-51038,2026-09-07,C1513,Leduc,Basic,In-store,E-bikes,Commuter e-bike,2,2899
+SC-51039,2026-09-07,C1464,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-51040,2026-09-08,C1371,Edmonton,Basic,In-store,Parts,Inner tube,3,12
+SC-51041,2026-09-08,C1480,Sherwood Park,Basic,In-store,Clothing,Winter balaclava,2,29
+SC-51042,2026-09-09,C1484,,Non-member,In-store,Clothing,Jersey,1,85
+SC-51043,2026-09-09,C1031,Edmonton,Premium,In-store,Clothing,Cycling gloves,1,35
+SC-51044,2026-09-10,C1278,Edmonton,Premium,In-store,Bikes,Kids bike,1,329
+SC-51045,2026-09-10,C1421,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-51046,2026-09-10,C1295,Sherwood Park,Non-member,In-store,Clothing,Jersey,2,85
+SC-51047,2026-09-12,C1163,Edmonton,Basic,In-store,Accessories,Light set,3,65
+SC-51048,2026-09-12,C1022,Edmonton,Basic,In-store,Bikes,Kids bike,1,329
+SC-51049,2026-09-12,C1537,Edmonton,Basic,In-store,Clothing,Jersey,1,85
+SC-51050,2026-09-12,C1152,Edmonton,Non-member,In-store,Parts,Inner tube,2,12
+SC-51051,2026-09-12,C1579,Edmonton,Premium,Online,Bikes,Mountain bike,1,1299
+SC-51052,2026-09-12,C1035,Edmonton,Non-member,Online,Parts,Inner tube,2,12
+SC-51053,2026-09-12,C1628,Sherwood Park,Non-member,Online,Accessories,Water bottle,4,14
+SC-51054,2026-09-12,C1270,Edmonton,Premium,In-store,Bikes,Mountain bike,1,1299
+SC-51055,2026-09-14,C1396,St. Albert,Basic,Online,Accessories,Pannier bags,2,129
+SC-51056,2026-09-14,C1348,Edmonton,Premium,In-store,Accessories,Lock,2,59
+SC-51057,2026-09-15,C1465,Edmonton,Basic,Online,E-bikes,Cargo e-bike,1,4999
+SC-51058,2026-09-15,C1402,Edmonton,Basic,In-store,Accessories,Pannier bags,1,129
+SC-51059,2026-09-15,C1315,Spruce Grove,Non-member,In-store,Accessories,Pannier bags,1,129
+SC-51060,2026-09-15,C1377,Spruce Grove,Non-member,In-store,Accessories,Lock,1,59
+SC-51061,2026-09-16,C1603,Edmonton,Premium,In-store,Clothing,Winter balaclava,1,29
+SC-51062,2026-09-16,C1155,St. Albert,Premium,Online,Clothing,Winter balaclava,1,29
+SC-51063,2026-09-17,C1095,St. Albert,Non-member,In-store,Parts,Inner tube,1,12
+SC-51064,2026-09-17,C1640,Edmonton,Basic,Online,Accessories,Pannier bags,1,129
+SC-51065,2026-09-17,C1163,Edmonton,Basic,In-store,Clothing,Winter balaclava,1,29
+SC-51066,2026-09-17,C1578,Edmonton,Non-member,Online,Accessories,Water bottle,2,14
+SC-51067,2026-09-18,C1168,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-51068,2026-09-18,C1341,Spruce Grove,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-51069,2026-09-18,C1182,St. Albert,Basic,In-store,Clothing,Cycling gloves,2,35
+SC-51070,2026-09-18,C1442,Edmonton,Non-member,In-store,Bikes,Commuter bike,1,849
+SC-51071,2026-09-18,C1165,Edmonton,Non-member,Online,Parts,Inner tube,1,12
+SC-51072,2026-09-19,C1381,Edmonton,Non-member,In-store,Parts,Brake pads,1,28
+SC-51073,2026-09-19,C1480,Sherwood Park,Basic,Online,Parts,Inner tube,6,12
+SC-51074,2026-09-19,C1242,Leduc,Basic,Online,Clothing,Cycling gloves,1,35
+SC-51075,2026-09-20,C1268,Edmonton,Premium,Online,Parts,Brake pads,1,28
+SC-51076,2026-09-20,C1493,Sherwood Park,Non-member,Online,Accessories,Helmet,1,89
+SC-51077,2026-09-20,C1022,Edmonton,Basic,In-store,Accessories,Pannier bags,1,129
+SC-51078,2026-09-22,C1487,Edmonton,Non-member,Online,Parts,Inner tube,4,12
+SC-51079,2026-09-22,C1043,Edmonton,Basic,Online,E-bikes,Commuter e-bike,1,2899
+SC-51080,2026-09-22,C1559,,Non-member,In-store,Clothing,Rain jacket,2,149
+SC-51081,2026-09-23,C1555,St. Albert,Non-member,In-store,Accessories,Helmet,3,89
+SC-51082,2026-09-23,C1295,Sherwood Park,Non-member,In-store,Bikes,Mountain bike,1,1299
+SC-51083,2026-09-23,C1586,Edmonton,Basic,Online,Clothing,Winter balaclava,1,29
+SC-51084,2026-09-24,C1605,Sherwood Park,Premium,In-store,E-bikes,Cargo e-bike,2,4999
+SC-51085,2026-09-24,C1519,Edmonton,Non-member,In-store,Accessories,Helmet,2,89
+SC-51086,2026-09-24,C1225,Edmonton,Basic,In-store,Parts,Inner tube,4,12
+SC-51087,2026-09-25,C1209,Spruce Grove,Basic,In-store,Accessories,Pannier bags,1,129
+SC-51088,2026-09-25,C1225,Edmonton,Basic,In-store,Parts,Inner tube,1,12
+SC-51089,2026-09-26,C1565,Edmonton,Non-member,In-store,Accessories,Lock,1,59
+SC-51090,2026-09-26,C1546,Edmonton,Non-member,Online,Accessories,Light set,2,65
+SC-51091,2026-09-26,C1292,Edmonton,Basic,In-store,Accessories,Helmet,2,89
+SC-51092,2026-09-26,C1610,St. Albert,Basic,In-store,Clothing,Rain jacket,1,149
+SC-51093,2026-09-27,C1025,Edmonton,Premium,In-store,Parts,Brake pads,1,28
+SC-51094,2026-09-27,C1191,Edmonton,Premium,In-store,Clothing,Cycling gloves,1,35
+SC-51095,2026-09-27,C1079,Edmonton,Basic,In-store,Parts,Brake pads,2,28
+SC-51096,2026-09-27,C1460,Edmonton,Non-member,In-store,Accessories,Lock,1,59
+SC-51097,2026-09-28,C1422,Edmonton,Premium,In-store,Clothing,Jersey,2,85
+SC-51098,2026-09-28,C1445,Edmonton,Non-member,In-store,Parts,Chain,1,39
+SC-51099,2026-09-28,C1143,Edmonton,Premium,Online,Bikes,Road bike,1,1649
+SC-51100,2026-09-29,C1235,Edmonton,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-51101,2026-09-29,C1011,Leduc,Basic,In-store,Parts,Inner tube,3,12
+SC-51102,2026-10-01,C1498,Edmonton,Basic,In-store,Clothing,Winter balaclava,2,29
+SC-51103,2026-10-01,C1292,Edmonton,Basic,In-store,Clothing,Winter balaclava,1,29
+SC-51104,2026-10-01,C1176,Edmonton,Non-member,Online,Parts,Chain,1,39
+SC-51105,2026-10-02,C1424,Sherwood Park,Basic,In-store,Bikes,Mountain bike,1,1299
+SC-51106,2026-10-03,C1626,St. Albert,Non-member,In-store,Accessories,Pannier bags,1,129
+SC-51107,2026-10-03,C1107,St. Albert,Basic,Online,Parts,Tire,2,54
+SC-51108,2026-10-03,C1002,St. Albert,Non-member,In-store,Parts,Chain,1,39
+SC-51109,2026-10-03,C1019,Edmonton,Premium,Online,Clothing,Cycling gloves,1,35
+SC-51110,2026-10-04,C1393,Edmonton,Non-member,In-store,Accessories,Helmet,1,89
+SC-51111,2026-10-05,C1413,Spruce Grove,Basic,Online,Parts,Inner tube,3,12
+SC-51112,2026-10-06,C1514,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-51113,2026-10-06,C1082,St. Albert,Basic,In-store,Clothing,Rain jacket,1,149
+SC-51114,2026-10-06,C1087,Edmonton,Premium,In-store,E-bikes,Cargo e-bike,1,4999
+SC-51115,2026-10-06,C1107,St. Albert,Basic,Online,Clothing,Jersey,1,85
+SC-51116,2026-10-07,C1133,Sherwood Park,Non-member,In-store,Accessories,Helmet,1,89
+SC-51117,2026-10-07,C1346,Edmonton,Basic,Online,Clothing,Winter balaclava,2,29
+SC-51118,2026-10-08,C1636,Spruce Grove,Basic,Online,Accessories,Lock,1,59
+SC-51119,2026-10-09,C1160,Sherwood Park,Non-member,Online,Bikes,Kids bike,1,329
+SC-51120,2026-10-09,C1006,Sherwood Park,Non-member,Online,Accessories,Water bottle,1,14
+SC-51121,2026-10-09,C1184,Leduc,Basic,In-store,Accessories,Helmet,1,89
+SC-51122,2026-10-09,C1178,Edmonton,Basic,In-store,Bikes,Commuter bike,1,849
+SC-51123,2026-10-10,C1614,St. Albert,Basic,In-store,Clothing,Jersey,2,85
+SC-51124,2026-10-10,C1093,Leduc,Basic,Online,Clothing,Jersey,1,85
+SC-51125,2026-10-10,C1181,St. Albert,Non-member,In-store,Clothing,Rain jacket,1,149
+SC-51126,2026-10-10,C1326,Sherwood Park,Basic,Online,Parts,Brake pads,1,28
+SC-51127,2026-10-10,C1566,edmonton,Basic,Online,Clothing,Winter balaclava,1,29
+SC-51128,2026-10-11,C1265,St. Albert,Non-member,In-store,Accessories,Light set,1,65
+SC-51129,2026-10-11,C1013,St. Albert,Non-member,In-store,Clothing,Rain jacket,1,149
+SC-51130,2026-10-11,C1199,Edmonton,Basic,Online,Parts,Brake pads,2,28
+SC-51131,2026-10-11,C1306,Edmonton,Non-member,Online,Clothing,Jersey,2,85
+SC-51132,2026-10-11,C1502,Edmonton,Premium,In-store,Parts,Inner tube,6,12
+SC-51133,2026-10-12,C1097,Edmonton,Non-member,In-store,Clothing,Winter balaclava,1,29
+SC-51134,2026-10-12,C1639,Edmonton,Non-member,Online,Clothing,Rain jacket,1,149
+SC-51135,2026-10-12,C1072,Edmonton,Premium,In-store,Parts,Chain,2,39
+SC-51136,2026-10-12,C1319,Edmonton,Non-member,Online,Bikes,Road bike,1,1649
+SC-51137,2026-10-12,C1497,Edmonton,Basic,In-store,Clothing,Jersey,1,85
+SC-51138,2026-10-13,C1533,Edmonton,Premium,In-store,E-bikes,Commuter e-bike,1,2899
+SC-51139,2026-10-13,C1296,Edmonton,Basic,Online,Accessories,Lock,1,59
+SC-51140,2026-10-14,C1601,Edmonton,Basic,In-store,Accessories,Lock,1,59
+SC-51141,2026-10-14,C1172,Edmonton,Premium,In-store,Clothing,Winter balaclava,1,29
+SC-51142,2026-10-14,C1524,Edmonton,Non-member,Online,Clothing,Winter balaclava,1,29
+SC-51143,2026-10-14,C1594,Edmonton,Basic,In-store,Accessories,Pannier bags,1,129
+SC-51144,2026-10-15,C1050,Edmonton,Premium,Online,Accessories,Pannier bags,1,129
+SC-51145,2026-10-15,C1113,St. Albert,Basic,Online,Parts,Inner tube,3,12
+SC-51146,2026-10-15,C1255,St. Albert,Basic,In-store,Parts,Brake pads,2,28
+SC-51147,2026-10-15,C1369,Leduc,Basic,In-store,Accessories,Helmet,2,89
+SC-51148,2026-10-15,C1174,Leduc,Non-member,Online,Clothing,Cycling gloves,1,35
+SC-51149,2026-10-15,C1098,Spruce Grove,Basic,In-store,Accessories,Lock,2,59
+SC-51150,2026-10-16,C1458,Sherwood Park,Non-member,In-store,Clothing,Jersey,1,85
+SC-51151,2026-10-16,C1204,Sherwood Park,Non-member,Online,Accessories,Helmet,1,89
+SC-51152,2026-10-17,C1284,St. Albert,Premium,Online,Clothing,Jersey,2,85
+SC-51153,2026-10-17,C1266,Edmonton,Premium,In-store,Clothing,Jersey,1,85
+SC-51154,2026-10-17,C1503,Spruce Grove,Basic,In-store,Parts,Brake pads,2,28
+SC-51155,2026-10-17,C1463,Spruce Grove,Non-member,In-store,Parts,Inner tube,4,12
+SC-51156,2026-10-18,C1321,Sherwood Park,Basic,In-store,Accessories,Pannier bags,1,129
+SC-51157,2026-10-18,C1477,Sherwood Park,Non-member,Online,Clothing,Jersey,1,85
+SC-51158,2026-10-19,C1001,Edmonton,Basic,Online,Clothing,Cycling gloves,2,35
+SC-51159,2026-10-19,C1279,Edmonton,Basic,Online,Clothing,Winter balaclava,1,29
+SC-51160,2026-10-19,C1627,Edmonton,Basic,In-store,Clothing,Winter balaclava,1,29
+SC-51161,2026-10-19,C1005,Edmonton,Non-member,In-store,Bikes,Road bike,1,1649
+SC-51162,2026-10-20,C1176,Edmonton,Non-member,In-store,Parts,Chain,2,39
+SC-51163,2026-10-20,C1248,Edmonton,Non-member,Online,Parts,Inner tube,2,12
+SC-51164,2026-10-20,C1464,Edmonton,Premium,Online,Bikes,Road bike,1,1649
+SC-51165,2026-10-20,C1519,Edmonton,Non-member,In-store,Accessories,Water bottle,2,14
+SC-51166,2026-10-21,C1640,Edmonton,Basic,In-store,Accessories,Lock,1,59
+SC-51167,2026-10-23,C1587,Edmonton,Basic,In-store,Clothing,Cycling gloves,1,35
+SC-51168,2026-10-24,C1584,St. Albert,Non-member,In-store,Parts,Tire,1,54
+SC-51169,2026-10-24,C1172,Edmonton,Premium,In-store,Accessories,Water bottle,1,14
+SC-51170,2026-10-24,C1412,Spruce Grove,Non-member,Online,Parts,Chain,1,39
+SC-51171,2026-10-24,C1395,St. Albert,Basic,In-store,Clothing,Rain jacket,1,149
+SC-51172,2026-10-25,C1617,Edmonton,Basic,In-store,Clothing,Jersey,1,85
+SC-51173,2026-10-26,C1205,Sherwood Park ,Basic,In-store,Bikes,Road bike,1,1649
+SC-51174,2026-10-26,C1106,Edmonton,Basic,Online,Parts,Brake pads,1,28
+SC-51175,2026-10-26,C1072,Edmonton,Premium,In-store,Bikes,Kids bike,1,329
+SC-51176,2026-10-26,C1112,Edmonton,Non-member,In-store,Bikes,Mountain bike,1,1299
+SC-51177,2026-10-27,C1182,St Albert,Basic,In-store,Parts,Brake pads,2,28
+SC-51178,2026-10-27,C1025,Edmonton,Premium,In-store,Accessories,Lock,1,59
+SC-51179,2026-10-27,C1205,Sherwood Park,Basic,In-store,Parts,Chain,1,39
+SC-51180,2026-10-28,C1442,Edmonton,Non-member,Online,Accessories,Light set,1,65
+SC-51181,2026-10-28,C1086,St. Albert,Basic,In-store,Accessories,Light set,1,65
+SC-51182,2026-10-29,C1297,Edmonton,Non-member,Online,Accessories,Pannier bags,1,129
+SC-51183,2026-10-29,C1130,Edmonton,Basic,In-store,Clothing,Rain jacket,2,149
+SC-51184,2026-10-30,C1123,Edmonton,Basic,Online,Clothing,Cycling gloves,1,35
+SC-51185,2026-10-30,C1385,Edmonton,Non-member,In-store,Clothing,Jersey,2,85
+SC-51186,2026-10-30,C1465,Edmonton,Basic,In-store,Parts,Inner tube,1,12
+SC-51187,2026-10-30,C1361,St. Albert,Basic,In-store,Accessories,Water bottle,1,14
+SC-51188,2026-10-30,C1133,Sherwood Park,Non-member,Online,Parts,Tire,1,54
+SC-51189,2026-10-30,C1495,Sherwood Park,Premium,Online,E-bikes,Commuter e-bike,1,2899
+SC-51190,2026-10-31,C1355,Edmonton,Non-member,Online,Accessories,Pannier bags,2,129
+SC-51191,2026-10-31,C1500,Edmonton,Non-member,In-store,Parts,Brake pads,1,28
